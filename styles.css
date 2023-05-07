@@ -1,0 +1,188 @@
+/*Farbcodes:
+#83BD0F: Primär-Grün
+#003077: Primär-Blau
+#F2F6EF: Sekundär-Grün Extra-Blass
+#DBE9BD: Sekundär-Grün Blass
+#00183B: Sekundär-Blau Dunkel
+#568100: Sekundär-Grün Dunkel
+#B8C5E0: Tertiär-Blau Mittel
+#B7DE7D: Tertiär-Grün Mittel
+#878B92: Tertiär-Grau
+#DEE3ED: Tertiär-Blau Blass */
+
+/* Lokale Fonts */
+@font-face {
+   font-family: 'Barlow Semi-Condensed';
+   font-display: swap;
+   /* font-weight: ??;*/
+   src: local('BarlowSemiCondensed-Regular'), local('BarlowSemiCondensed-Regular'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Regular.woff2') format('woff2'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Regular.ttf') format('tff');
+}
+
+@font-face {
+   font-family: 'Barlow Semi-Condensed Light';
+   font-display: swap;
+   src: local('BarlowSemiCondensed-Light'), local('BarlowSemiCondensed-Light'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Light.woff2') format('woff2'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Light.ttf') format('tff');
+}
+
+@font-face {
+   font-family: 'Barlow Semi-Condensed Medium';
+   font-display: swap;
+   src: local('BarlowSemiCondensed-Medium'), local('BarlowSemiCondensed-Medium'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Medium.woff2') format('woff2'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Medium.ttf') format('tff');
+}
+
+@font-face {
+   font-family: 'Barlow Semi-Condensed SemiBold';
+   font-display: swap;
+   src: local('BarlowSemiCondensed-SemiBold'), local('BarlowSemiCondensed-SemiBold'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.woff2') format('woff2'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.ttf') format('tff')
+}
+
+@font-face {
+   font-family: 'OpenSans Semi-Condensed Light';
+   font-display: swap;
+   src: local('OpenSans SemiCondensed-Light'), local('OpenSans SemiCondensed-Light'),
+   url('fonts/Open_Sans/static/OpenSans_SemiCondensed/OpenSans_SemiCondensed-Light.woff2') format('woff2'),
+   url('fonts/Open_Sans/static/OpenSans_SemiCondensed/OpenSans_SemiCondensed-Light.ttf') format('tff')
+}
+
+header, footer, nav {
+   margin: 0;
+   padding: 0;
+   border:none;
+}
+/*
+#header {
+   position: absolute;
+   left: 10px;
+   top: 10px;
+   right: 10px;
+   height: 100px;
+
+}
+
+#content {
+   position: absolute;
+   left: 210px;
+   right: 10px;
+   top: 110px;
+   bottom: 30px;
+}*/
+
+/*#nav ul {
+   margin: 30px 0 0 0;
+   padding: 0;
+}
+
+#nav li {
+   list-style-type: none;
+   margin: 0;
+   border-bottom: 1px solid #30804B;
+   background-color: #AF824E;
+}
+
+#nav li ul {
+   margin: 0;
+}
+
+#nav .ausgewaehlt {
+   background-color: salmon;
+}
+
+#nav a, #nav a:visited, #nav a:hover, #hav a:focus {
+   display: block;
+   height: 2em;
+   text-decoration: none;
+   color: black;
+   text-align: right;
+   font-size: 1.6em;
+   padding: 2px 10px 0 0;
+   font-variant: small-caps;
+   font-weight: bold;
+}*/
+
+.btn-hu {
+   background-color: #83BD0F;
+   border: none;
+}
+
+#logo {
+   max-height: 4em;
+   width: auto;
+}
+
+body {
+   background-color: #F2F6EF;
+   margin: 0 2% 0 2%;
+}
+
+.nav-link {
+   color: #00183B;
+   font-family: 'Barlow Semi-Condensed Light', Arial, Helvetica, sans-serif;
+}
+
+.nav-link:hover {
+   color: #83BD0F;
+}
+
+.nav-pills {
+   background-color: none;
+}
+
+li .active {
+   background-color: none;
+   font-weight: bold;
+   text-decoration:underline;
+}
+
+.nav-pills .nav-link.active {
+   background-color: none;
+}
+.container {
+   background-color: #F2F6EF;
+}
+
+h1 {
+   font-family: 'Barlow Semi-Condensed', Arial, Helvetica, sans-serif;
+   color: #003077;
+}
+
+p {
+   font-family: 'OpenSans Semi-Condensed Light', Arial, Helvetica, sans-serif;
+
+}
+
+button a, a.btn-hu {
+   color: #FFFFFF;
+   font-family: 'Barlow Semi-Condensed Medium';
+   text-decoration: none;
+   padding: 6px;
+}
+
+/*body {
+   padding: 0;
+   margin: 0;
+   background: #f9f9f9;
+ }
+ /*-- Navigationsleiste --
+ .nav-link {
+   margin-right: 1em !important;
+ }
+ .nav-link:hover,
+ .navbar-brand:hover {
+   color: white;
+   text-decoration: underline;
+ }
+ .navbar-collapse {
+   justify-content: flex-end;
+ }*/
+
+ #keyvisual-img {
+   width: 100%;
+ }

@@ -1,0 +1,6445 @@
+/* Startseite HU für Alle (Desktop) */
+
+position: relative;
+width: 1366px;
+height: 3851px;
+
+
+
+/* Desktop - Content */
+
+position: absolute;
+width: 1366px;
+height: 3851px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 2px;
+
+
+/* Footer */
+
+position: absolute;
+width: 1366px;
+height: 405px;
+left: -1px;
+top: 3108px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 405px;
+left: -1px;
+top: 3108px;
+
+background: #003077;
+
+
+/* Footer Group */
+
+position: absolute;
+width: 1261.36px;
+height: 335px;
+left: 51px;
+top: 3168px;
+
+
+
+/* Legen wir los */
+
+position: absolute;
+width: 239.36px;
+height: 250px;
+left: 1073px;
+top: 3168px;
+
+
+
+/* Social-Media-Icons */
+
+position: absolute;
+width: 239.14px;
+height: 35px;
+left: 1073px;
+top: 3383px;
+
+
+
+/* image 2 */
+
+position: absolute;
+width: 36.11px;
+height: 35px;
+left: 1073px;
+top: 3383px;
+
+background: url(image.png);
+
+
+/* image 3 */
+
+position: absolute;
+width: 36.11px;
+height: 35px;
+left: 1174px;
+top: 3383px;
+
+background: url(image.png);
+
+
+/* image 4 */
+
+position: absolute;
+width: 37.14px;
+height: 35px;
+left: 1275px;
+top: 3383px;
+
+background: url(image.png);
+
+
+/* Button */
+
+position: absolute;
+width: 239.36px;
+height: 50px;
+left: 1073px;
+top: 3313px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 239.36px;
+height: 50px;
+left: 1073px;
+top: 3313px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Newsletter abonnieren */
+
+position: absolute;
+width: 225.95px;
+height: 31px;
+left: 1079.6px;
+top: 3323.17px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* E-Mail-Adresse */
+
+position: absolute;
+width: 239.36px;
+height: 47px;
+left: 1073px;
+top: 3251px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 239.36px;
+height: 47px;
+left: 1073px;
+top: 3251px;
+
+background: #FFFFFF;
+border: 2px solid #878B92;
+
+
+/* E-Mail-Adresse eingeben */
+
+position: absolute;
+width: 219.76px;
+height: 33px;
+left: 1082.29px;
+top: 3257px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #878B92;
+
+
+
+/* Nichts verpassen */
+
+position: absolute;
+width: 209px;
+height: 38px;
+left: 1073px;
+top: 3168px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+line-height: 130%;
+/* identical to box height, or 38px */
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Allgemeines */
+
+position: absolute;
+width: 241.42px;
+height: 249px;
+left: 749px;
+top: 3168px;
+
+
+
+/* Kontakt Datenschutzerklärung Impressum Sitemap */
+
+position: absolute;
+width: 241.42px;
+height: 166px;
+left: 749px;
+top: 3251px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+text-decoration-line: underline;
+
+color: #F2F6EF;
+
+
+
+/* Allgemeines */
+
+position: absolute;
+width: 241.42px;
+height: 38px;
+left: 749px;
+top: 3168px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+line-height: 130%;
+/* identical to box height, or 38px */
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Beratung & Begleitung */
+
+position: absolute;
+width: 290.95px;
+height: 335px;
+left: 375px;
+top: 3168px;
+
+
+
+/* Mitglied werden Vereinsgeschichte Vorstand Downloads */
+
+position: absolute;
+width: 290.95px;
+height: 252px;
+left: 375px;
+top: 3251px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+text-decoration-line: underline;
+
+color: #F2F6EF;
+
+
+
+/* Der Verein */
+
+position: absolute;
+width: 290.95px;
+height: 73px;
+left: 375px;
+top: 3168px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+line-height: 130%;
+/* or 38px */
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* In Praxis erfahren */
+
+position: absolute;
+width: 241.42px;
+height: 249px;
+left: 51px;
+top: 3168px;
+
+
+
+/* Kleiderspende Urban Gardening Streetwork Fahrradservice */
+
+position: absolute;
+width: 241.42px;
+height: 166px;
+left: 51px;
+top: 3251px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+text-decoration-line: underline;
+
+color: #F2F6EF;
+
+
+
+/* Hanau für Alle */
+
+position: absolute;
+width: 241.42px;
+height: 38px;
+left: 51px;
+top: 3168px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+line-height: 130%;
+/* identical to box height, or 38px */
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Copyright © 2023 HU Für Alle e.V. – Alle Rechte vorbehalten. */
+
+position: absolute;
+width: 488px;
+height: 26px;
+left: 862.46px;
+top: 3475px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* 6 Mithelfen */
+
+position: absolute;
+width: 1366px;
+height: 567px;
+left: 0px;
+top: 2539px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 567px;
+left: 0px;
+top: 2539px;
+
+background: #F2F6EF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 989px;
+height: 477px;
+left: 105px;
+top: 2584px;
+
+
+
+/* CTA Group */
+
+position: absolute;
+width: 988px;
+height: 250px;
+left: 106px;
+top: 2811px;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 316px;
+height: 250px;
+left: 106px;
+top: 2811px;
+
+
+
+/* DSC_3305 - Kopie 1 */
+
+position: absolute;
+width: 316px;
+height: 170px;
+left: 106px;
+top: 2811px;
+
+background: url(DSC_3305 - Kopie);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 316px;
+height: 147px;
+left: 106px;
+top: 2914px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Verschicke Kleidung ins Krisengebiet Deiner Wahl. */
+
+position: absolute;
+width: 274.44px;
+height: 46.84px;
+left: 127px;
+top: 2918.48px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 274.44px;
+height: 49.83px;
+left: 127px;
+top: 2995.22px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 274.44px;
+height: 49.83px;
+left: 127px;
+top: 2995.22px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Kleidung weltweit spenden */
+
+position: absolute;
+width: 258px;
+height: 31px;
+left: 134.1px;
+top: 3005.18px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 316px;
+height: 250px;
+left: 442px;
+top: 2811px;
+
+
+
+/* DSC_4205 - Kopie 1 */
+
+position: absolute;
+width: 315.73px;
+height: 170px;
+left: 442.27px;
+top: 2811px;
+
+background: url(DSC_4205 - Kopie);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 316px;
+height: 147px;
+left: 442px;
+top: 2914px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Packe vor Ort in und um Hanau mit an. */
+
+position: absolute;
+width: 274.21px;
+height: 46.84px;
+left: 464px;
+top: 2918.48px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 274.21px;
+height: 49.83px;
+left: 464px;
+top: 2995.22px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 274.21px;
+height: 49.83px;
+left: 464px;
+top: 2995.22px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* In Hanau helfen */
+
+position: absolute;
+width: 175.85px;
+height: 31px;
+left: 511.39px;
+top: 3005.18px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 316.09px;
+height: 249.49px;
+left: 777.91px;
+top: 2811px;
+
+
+
+/* DSC_1527 (2) 1 */
+
+position: absolute;
+width: 316px;
+height: 170.54px;
+left: 778px;
+top: 2811px;
+
+background: url(DSC_1527 (2).jpg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 316px;
+height: 147px;
+left: 777.91px;
+top: 2913.49px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Als Mitglied hilfst Du finanziell und, wenn möglich, aktiv. */
+
+position: absolute;
+width: 274.44px;
+height: 46.84px;
+left: 800px;
+top: 2918.48px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 274.44px;
+height: 49.83px;
+left: 800px;
+top: 2995.22px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 274.44px;
+height: 49.83px;
+left: 800px;
+top: 2995.22px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Werde Mitglied */
+
+position: absolute;
+width: 199.6px;
+height: 30.9px;
+left: 836.79px;
+top: 3005.18px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Wie Du mithelfen kannst - ob Mitglied oder Nichtmitglied! */
+
+position: absolute;
+width: 870px;
+height: 44px;
+left: 106px;
+top: 2584px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+
+color: #003077;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 988px;
+height: 104px;
+left: 105px;
+top: 2661px;
+
+
+
+/* Unser Ziel ist groß - wir können also jede Unterstützung gebrauchen. Egal ob Du mit Deiner Kleiderspende dazu beiträgst, mit Deinem grünen Daumen beim Urban Gardening, mit Deiner Zeit beim Aufbau und Betrieb eines */
+
+position: absolute;
+width: 484px;
+height: 104px;
+left: 105px;
+top: 2661px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Mehrgenerationenhauses oder beim Schrauben in der Fahrradworkshop - Deine Hilfe ist für uns wertvoll. Und wenn Dir unsere Arbeit gefällt, dann werde doch einfach Mitglied und profitiere von Rabatten und Gutscheinen in Hanau! */
+
+position: absolute;
+width: 484px;
+height: 104px;
+left: 609px;
+top: 2661px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* 5 Aktivitäten und Bereiche */
+
+position: absolute;
+width: 1366px;
+height: 632px;
+left: 0px;
+top: 1908px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 632px;
+left: 0px;
+top: 1908px;
+
+background: #FFFFFF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1241px;
+height: 512px;
+left: 105px;
+top: 1968px;
+
+
+
+/* CTA Group */
+
+position: absolute;
+width: 988px;
+height: 296px;
+left: 105px;
+top: 2184px;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 232px;
+height: 295.55px;
+left: 609px;
+top: 2184px;
+
+
+
+/* DSC_6167 - Kopie (2) 1 */
+
+position: absolute;
+width: 232px;
+height: 126px;
+left: 609px;
+top: 2184px;
+
+background: url(DSC_6167 - Kopie (2));
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 232px;
+height: 110px;
+left: 609px;
+top: 2310px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Jung und alt unter einem Dach - Wir machen es möglich. */
+
+position: absolute;
+width: 197px;
+height: 87px;
+left: 627px;
+top: 2322.55px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 609px;
+top: 2429.55px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 609px;
+top: 2429.55px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Generationenhaus */
+
+position: absolute;
+width: 176px;
+height: 31px;
+left: 636.4px;
+top: 2439.72px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 232px;
+height: 295.73px;
+left: 357px;
+top: 2184px;
+
+
+
+/* DSC_2585 1 */
+
+position: absolute;
+width: 232px;
+height: 126.45px;
+left: 357px;
+top: 2184px;
+
+background: url(DSC_2585.jpg);
+
+
+/* Teaser-PLD - Kopie 4 */
+
+position: absolute;
+width: 232px;
+height: 126px;
+left: 357px;
+top: 2184.45px;
+
+background: url(Teaser-PLD - Kopie.png);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 232px;
+height: 110px;
+left: 357px;
+top: 2310.45px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Wir begrünen Hanau und helfen damit Umwelt und Mensch. */
+
+position: absolute;
+width: 197px;
+height: 87px;
+left: 375px;
+top: 2322.73px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 357px;
+top: 2429.73px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 357px;
+top: 2429.73px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Urban Gardening */
+
+position: absolute;
+width: 171.26px;
+height: 30.87px;
+left: 387.4px;
+top: 2439.9px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 232px;
+height: 296px;
+left: 105px;
+top: 2184px;
+
+
+
+/* DSC_2585 1 */
+
+position: absolute;
+width: 232px;
+height: 126.45px;
+left: 105px;
+top: 2184.27px;
+
+background: url(DSC_2585.jpg);
+
+
+/* DSC_7950 - Kopie 1 */
+
+position: absolute;
+width: 232px;
+height: 127px;
+left: 105px;
+top: 2184px;
+
+background: url(DSC_7950 - Kopie);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 232px;
+height: 110px;
+left: 105px;
+top: 2311px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Wir schicken Kleidung dorthin, wo sie gebraucht wird. */
+
+position: absolute;
+width: 197px;
+height: 87px;
+left: 123px;
+top: 2323px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 105px;
+top: 2430px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 105px;
+top: 2430px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Kleiderspenden */
+
+position: absolute;
+width: 171.26px;
+height: 30.87px;
+left: 135.4px;
+top: 2440.17px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 232px;
+height: 294.73px;
+left: 861px;
+top: 2184px;
+
+
+
+/* DSC_1524 - Kopie 1 */
+
+position: absolute;
+width: 232px;
+height: 126px;
+left: 861px;
+top: 2184px;
+
+background: url(DSC_1524 - Kopie);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 232px;
+height: 110px;
+left: 861px;
+top: 2309.73px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Fahrrad kaputt? Wir helfen gerne, schnell und kompetent. */
+
+position: absolute;
+width: 197px;
+height: 87px;
+left: 879px;
+top: 2321.73px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 861px;
+top: 2428.73px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 861px;
+top: 2428.73px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Fahrradservice */
+
+position: absolute;
+width: 146px;
+height: 31px;
+left: 903.4px;
+top: 2438.9px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Unsere Aktivitäten und Bereiche */
+
+position: absolute;
+width: 820px;
+height: 42px;
+left: 105px;
+top: 1968px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+color: #003077;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 988px;
+height: 104px;
+left: 105px;
+top: 2045px;
+
+
+
+/* Hanau und die Welt zu einem lebenswerteren Ort für alle Menschen machen - das ist das große Ziel, an dem wir mit Leidenschaft arbeiten. Aktiv sind wir dabei in mehreren Bereichen rund um Alltag und Wohnen. */
+
+position: absolute;
+width: 484px;
+height: 104px;
+left: 105px;
+top: 2045px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* In Hanau haben wir damit schon an vielen Stellen in Stadt und Umland Erfolge gefeiert: ob mit dem ersten Mehr-generationenhaus in MKK, mehr als 50 begrünten Fassaden oder 2,5 Tonnen Kleiderspenden für die ganze Welt. */
+
+position: absolute;
+width: 484px;
+height: 104px;
+left: 609px;
+top: 2045px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 1114px;
+top: 2045px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 1114px;
+top: 2045px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Übersicht der Bereiche */
+
+position: absolute;
+width: 222px;
+height: 31px;
+left: 1118.4px;
+top: 2055.17px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* 4 Neues aus dem Verein */
+
+position: absolute;
+width: 1366px;
+height: 422px;
+left: 0px;
+top: 1486px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 422px;
+left: 0px;
+top: 1486px;
+
+background: #F2F6EF;
+
+
+/* Group 13 */
+
+position: absolute;
+width: 988px;
+height: 333px;
+left: 105px;
+top: 1531px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 554px;
+height: 42px;
+left: 105.27px;
+top: 1531px;
+
+
+
+/* hd-wallpaper-g41a4f75b9_1280 1 */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 134px;
+left: 945px;
+top: 1609px;
+
+background: url(hd-wallpaper-g41a4f75b9_1280);
+
+
+/* Neues aus unserem Verein */
+
+position: absolute;
+width: 554px;
+height: 42px;
+left: 105.27px;
+top: 1531px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+color: #003077;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 988px;
+height: 260px;
+left: 105px;
+top: 1604px;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 988px;
+height: 260px;
+left: 105px;
+top: 1604px;
+
+
+
+/* Foto-Text-Box-1 */
+
+position: absolute;
+width: 316px;
+height: 260px;
+left: 105px;
+top: 1604px;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 258px;
+left: 105px;
+top: 1605px;
+
+background: #878B92;
+
+
+/* Teaser-PLD - Kopie 3 */
+
+position: absolute;
+width: 316px;
+height: 260px;
+left: 105px;
+top: 1604px;
+
+background: url(Teaser-PLD - Kopie.png);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 206px;
+height: 260px;
+left: 215px;
+top: 1604px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Der Verein auf dem Bürgerfest Hanau - Rekord ein zweites Mal geknackt! */
+
+position: absolute;
+width: 172px;
+height: 156px;
+left: 231px;
+top: 1626px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 231px;
+top: 1795px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 231px;
+top: 1795px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Mehr erfahren */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 249px;
+top: 1812px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Foto-Text-Box-1 */
+
+position: absolute;
+width: 316px;
+height: 260px;
+left: 777px;
+top: 1604px;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 258px;
+left: 777px;
+top: 1607px;
+
+background: #878B92;
+
+
+/* DSC_1751 - Kopie 1 */
+
+position: absolute;
+width: 316px;
+height: 260px;
+left: 777px;
+top: 1604px;
+
+background: url(DSC_1751 - Kopie.jpg);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 206px;
+height: 260px;
+left: 887px;
+top: 1604px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Blick in die Werkstatt: Warum unser Radservice so beliebt ist und was bald kommt. */
+
+position: absolute;
+width: 172px;
+height: 156px;
+left: 903px;
+top: 1628px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 903px;
+top: 1797px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 903px;
+top: 1797px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Mehr erfahren */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 920.84px;
+top: 1814px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Foto-Text-Box-1 */
+
+position: absolute;
+width: 316px;
+height: 260px;
+left: 443px;
+top: 1604px;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 258px;
+left: 443px;
+top: 1607px;
+
+background: #878B92;
+
+
+/* DSC_1751 - Kopie 1 */
+
+position: absolute;
+width: 316px;
+height: 260px;
+left: 443px;
+top: 1604px;
+
+background: url(DSC_1751 - Kopie.jpg);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 206px;
+height: 260px;
+left: 553px;
+top: 1604px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Seit Mai online: Registriere Deine Kleiderspende und entscheide, wo sie hilft. */
+
+position: absolute;
+width: 172px;
+height: 156px;
+left: 569px;
+top: 1628px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 569px;
+top: 1797px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 569px;
+top: 1797px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Mehr erfahren */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 586.84px;
+top: 1814px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* 3 Verein und Philosophie */
+
+position: absolute;
+width: 1366px;
+height: 382px;
+left: 0px;
+top: 1105px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 382px;
+left: 0px;
+top: 1105px;
+
+background: #FFFFFF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1156px;
+height: 292px;
+left: 105px;
+top: 1150px;
+
+
+
+/* Unser Verein und unsere Philosphie */
+
+position: absolute;
+width: 820px;
+height: 42px;
+left: 105px;
+top: 1150px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+color: #003077;
+
+
+
+/* Content Group */
+
+position: absolute;
+width: 1156px;
+height: 130px;
+left: 105px;
+top: 1227px;
+
+
+
+/* Seit 2020 setzen wir uns mit vereinten Kräften dafür ein, hilfebedürf-tigen und benachteiligten Menschen in Hanau zu ermöglichen, selbstbestimmt und in Würde am gesellschaftlichen Leben teilzuhaben. Mit Ausbruch des Ukraine-Krieges haben wir unser Hilfsangebot auf Krisengebiete dieser Welt ausgeweitet - und das mit Erfolg! */
+
+position: absolute;
+width: 567px;
+height: 129px;
+left: 694px;
+top: 1227px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+width: 568px;
+height: 130px;
+left: 105px;
+top: 1227px;
+
+background: #003077;
+
+
+/* Hersteller */
+
+position: absolute;
+width: 103px;
+height: 105px;
+left: 559px;
+top: 1240px;
+
+
+
+/* Hersteller */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 577px;
+top: 1240px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 577px;
+top: 1240px;
+
+background: #F2F6EF;
+
+
+/* 50+ */
+
+position: absolute;
+width: 51px;
+height: 27px;
+left: 587px;
+top: 1253px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 50px;
+/* or 208% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #003077;
+
+
+
+/* Hersteller */
+
+position: absolute;
+width: 103px;
+height: 31px;
+left: 559px;
+top: 1314px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #DEE3ED;
+
+
+
+/* Testfahrzeuge */
+
+position: absolute;
+width: 117px;
+height: 99px;
+left: 123px;
+top: 1240px;
+
+
+
+/* Testfahrzeuge */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 146px;
+top: 1240px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 146px;
+top: 1240px;
+
+background: #F2F6EF;
+
+
+/* 270+ */
+
+position: absolute;
+width: 51px;
+height: 27px;
+left: 156px;
+top: 1253px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 50px;
+/* or 208% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #003077;
+
+
+
+/* Mitglieder */
+
+position: absolute;
+width: 117px;
+height: 20px;
+left: 123px;
+top: 1319px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #DEE3ED;
+
+
+
+/* Fahrzeuge altAntr */
+
+position: absolute;
+width: 158px;
+height: 117px;
+left: 383px;
+top: 1240px;
+
+
+
+/* Fahrzeuge altAntr */
+
+position: absolute;
+width: 82px;
+height: 70px;
+left: 422px;
+top: 1240px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 427px;
+top: 1240px;
+
+background: #F2F6EF;
+
+
+/* 4500+ */
+
+position: absolute;
+width: 82px;
+height: 28px;
+left: 422px;
+top: 1252px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 50px;
+/* or 208% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #003077;
+
+
+
+/* Kleidungsstücke in die ganze Welt gespendet */
+
+position: absolute;
+width: 158px;
+height: 55px;
+left: 383px;
+top: 1302px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #DEE3ED;
+
+
+
+/* Antriebe */
+
+position: absolute;
+width: 87px;
+height: 110px;
+left: 268px;
+top: 1240px;
+
+
+
+/* Antriebe */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 276px;
+top: 1240px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 276px;
+top: 1240px;
+
+background: #F2F6EF;
+
+
+/* 5 */
+
+position: absolute;
+width: 51px;
+height: 27px;
+left: 286px;
+top: 1253px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 50px;
+/* or 208% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #003077;
+
+
+
+/* soziale Bereiche */
+
+position: absolute;
+width: 87px;
+height: 40px;
+left: 268px;
+top: 1310px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #DEE3ED;
+
+
+
+/* Button Group */
+
+position: absolute;
+width: 652px;
+height: 50px;
+left: 336px;
+top: 1392px;
+
+
+
+/* Button */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 50px;
+left: 189px;
+top: 1392px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 189px;
+top: 1392px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Warum beraten lassen? */
+
+position: absolute;
+width: 225px;
+height: 17px;
+left: 234px;
+top: 1409px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 336px;
+top: 1392px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 336px;
+top: 1392px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Erfahre mehr über uns */
+
+position: absolute;
+width: 216px;
+height: 17px;
+left: 385px;
+top: 1409px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 672px;
+top: 1392px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 672px;
+top: 1392px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Werde Teil unseres Vereins */
+
+position: absolute;
+width: 259px;
+height: 17px;
+left: 702px;
+top: 1409px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* 2 Kleiderspendenregistrierung */
+
+position: absolute;
+width: 1366px;
+height: 428px;
+left: 0px;
+top: 674px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 428px;
+left: 0px;
+top: 674px;
+
+background: #F2F6EF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1156px;
+height: 350px;
+left: 105px;
+top: 720px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1156px;
+height: 286px;
+left: 105px;
+top: 784px;
+
+background: #003077;
+
+
+/* LINK ZU FORMULAR ZUR REGISTRIERUNG DER KLEIDERSPENDEN */
+
+position: absolute;
+width: 991px;
+height: 212px;
+left: 189px;
+top: 822px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Jetzt neu: Schicke Deine Kleider in eine neue Heimat Deiner Wahl */
+
+position: absolute;
+width: 887px;
+height: 45px;
+left: 105px;
+top: 720px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+
+color: #003077;
+
+
+
+/* 1 Willkommen */
+
+position: absolute;
+width: 1366px;
+height: 250px;
+left: 0px;
+top: 424px;
+
+filter: drop-shadow(0px 2px 5px rgba(0, 0, 0, 0.25));
+
+
+/* Variante Blau */
+
+position: absolute;
+width: 1366px;
+height: 250px;
+left: 0px;
+top: 424px;
+
+background: #FFFFFF;
+
+
+/* Intro */
+
+position: absolute;
+width: 885px;
+height: 155px;
+left: 105px;
+top: 471px;
+
+
+
+/* Einleitung-Barlow */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 45px;
+
+position: absolute;
+width: 885px;
+height: 155px;
+left: 105px;
+top: 471px;
+
+
+
+/* Deutschland ist auf dem Weg zum Land der Elektromobilität. Passt ein E-Antrieb auch zu Ihnen? Und wenn ja: Soll es vollelektrisch oder hybrid vorangehen, mit oder ohne Stecker? Wir finden es heraus. */
+
+width: 420px;
+height: 155px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mit vielfältigen Angeboten und Tätigkeiten in den Bereichen Wohnen, Arbeiten, Begegnung und Alltag wollen wir dazu beitragen, die Lebensqualität der Hanauer:innen und Menschen weltweit zu verbessern. */
+
+width: 420px;
+height: 155px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Key Visual */
+
+position: absolute;
+width: 1366px;
+height: 329px;
+left: 0px;
+top: 95px;
+
+
+
+/* Key Visual_ALT */
+
+position: absolute;
+visibility: hidden;
+width: 1366px;
+height: 389px;
+left: 0px;
+top: 94px;
+
+background: url(AdobeStock_179709876 - Kopie.jpg);
+
+
+/* Key Visual */
+
+position: absolute;
+width: 1366px;
+height: 329px;
+left: 0px;
+top: 95px;
+
+background: url(AdobeStock_179709876 - Kopie.jpg);
+
+
+/* DSC_3310 - Kopie 3 */
+
+position: absolute;
+visibility: hidden;
+width: 339px;
+height: 293px;
+left: 992px;
+top: 131px;
+
+background: url(DSC_3310 - Kopie);
+
+
+/* Bild1 4 */
+
+position: absolute;
+visibility: hidden;
+width: 269px;
+height: 291px;
+left: 1011px;
+top: 133px;
+
+background: url(Bild1);
+
+
+/* Störer */
+
+position: absolute;
+width: 399px;
+height: 221px;
+left: 105px;
+top: 148px;
+
+opacity: 0.8;
+
+
+/* Störer */
+
+position: absolute;
+width: 399px;
+height: 221px;
+left: 105px;
+top: 148px;
+
+background: rgba(184, 197, 224, 0.5);
+border-radius: 3px;
+
+
+/* Bereit für Ihre persönliche Verkehrswende? */
+
+position: absolute;
+visibility: hidden;
+width: 343px;
+height: 150px;
+left: 133px;
+top: 183px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 41px;
+line-height: 50px;
+/* or 122% */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Herzlich willkommen bei Hanau für Alle! */
+
+position: absolute;
+width: 343px;
+height: 150px;
+left: 133px;
+top: 183px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 41px;
+line-height: 50px;
+/* or 122% */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Störer_ALT */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 292px;
+left: 105px;
+top: 142px;
+
+opacity: 0.8;
+
+
+/* Störer */
+
+position: absolute;
+width: 316px;
+height: 292px;
+left: 105px;
+top: 142px;
+
+background: rgba(184, 197, 224, 0.5);
+
+
+/* Bereit für Ihre persönliche Verkehrs-wende? */
+
+position: absolute;
+width: 251px;
+height: 237px;
+left: 137px;
+top: 169px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 41px;
+line-height: 50px;
+/* or 122% */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #F2F6EF;
+
+
+
+/* Trennlinien */
+
+position: absolute;
+width: 1323px;
+height: 1435px;
+left: 21px;
+top: 1105px;
+
+
+
+/* Line 12 */
+
+position: absolute;
+width: 1323px;
+height: 0px;
+left: 21px;
+top: 1105px;
+
+border: 3px solid #83BD0F;
+
+
+/* Line 13 */
+
+position: absolute;
+width: 1323px;
+height: 0px;
+left: 21px;
+top: 1487px;
+
+border: 3px solid #83BD0F;
+
+
+/* Line 14 */
+
+position: absolute;
+width: 1323px;
+height: 0px;
+left: 21px;
+top: 1908px;
+
+border: 3px solid #83BD0F;
+
+
+/* Line 15 */
+
+position: absolute;
+width: 1323px;
+height: 0px;
+left: 21px;
+top: 2540px;
+
+border: 3px solid #83BD0F;
+
+
+/* Header */
+
+position: absolute;
+visibility: hidden;
+width: 1366px;
+height: 95px;
+left: 0px;
+top: 0px;
+overflow-y: scroll;
+
+
+
+/* Bildnachweis: stock.adobe.com, ekostsov */
+
+position: absolute;
+width: 163px;
+height: 13px;
+left: 1346px;
+top: 415px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 275;
+font-size: 10px;
+line-height: 130%;
+/* identical to box height, or 13px */
+letter-spacing: 0.01em;
+
+color: #003077;
+
+transform: rotate(-90deg);
+
+
+/* To-Top_blau */
+
+position: absolute;
+width: 79px;
+height: 79px;
+left: 1265px;
+top: 3095px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 79px;
+height: 79px;
+left: 1265px;
+top: 3095px;
+
+background: #FFFFFF;
+border: 1px solid #83BD0F;
+box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Arrow 1 */
+
+position: absolute;
+width: 19px;
+height: 0px;
+left: 1305px;
+top: 3123px;
+
+border: 4px solid #83BD0F;
+transform: rotate(-90deg);
+
+
+/* Nach oben */
+
+position: absolute;
+width: 67px;
+height: 32px;
+left: 1271px;
+top: 3127px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 100%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #83BD0F;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 224.63px;
+height: 197.48px;
+left: 1074px;
+top: 450px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 169px;
+height: 169px;
+left: 1101px;
+top: 473px;
+
+background: #83BD0F;
+
+
+/* NEU Finde eine neue Heimat für Deine Kleiderspende */
+
+position: absolute;
+width: 187px;
+height: 140px;
+left: 1123.92px;
+top: 450px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 130%;
+/* or 47px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+transform: rotate(20.89deg);
+
+
+/* Desktop - Content_ALT */
+
+position: absolute;
+visibility: hidden;
+width: 1366px;
+height: 4229px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 2px;
+
+
+/* Footer */
+
+position: absolute;
+width: 1366px;
+height: 405px;
+left: 0px;
+top: 3767px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 405px;
+left: 0px;
+top: 3767px;
+
+background: #003077;
+
+
+/* Footer Group */
+
+position: absolute;
+width: 1261.36px;
+height: 335px;
+left: 52px;
+top: 3827px;
+
+
+
+/* Legen wir los */
+
+position: absolute;
+width: 239.36px;
+height: 250px;
+left: 1074px;
+top: 3827px;
+
+
+
+/* Social-Media-Icons */
+
+position: absolute;
+width: 239.36px;
+height: 35px;
+left: 1074px;
+top: 4042px;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 37.14px;
+height: 35px;
+left: 1074px;
+top: 4042px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+position: absolute;
+width: 36.11px;
+height: 35px;
+left: 1142.09px;
+top: 4042px;
+
+background: url(image.png);
+
+
+/* image 3 */
+
+position: absolute;
+width: 36.11px;
+height: 35px;
+left: 1209.16px;
+top: 4042px;
+
+background: url(image.png);
+
+
+/* image 4 */
+
+position: absolute;
+width: 37.14px;
+height: 35px;
+left: 1276.22px;
+top: 4042px;
+
+background: url(image.png);
+
+
+/* Button */
+
+position: absolute;
+width: 239.36px;
+height: 50px;
+left: 1074px;
+top: 3972px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 239.36px;
+height: 50px;
+left: 1074px;
+top: 3972px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Newsletter abonnieren */
+
+position: absolute;
+width: 225.95px;
+height: 31px;
+left: 1080.6px;
+top: 3982.17px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* E-Mail-Adresse */
+
+position: absolute;
+width: 239.36px;
+height: 47px;
+left: 1074px;
+top: 3910px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 239.36px;
+height: 47px;
+left: 1074px;
+top: 3910px;
+
+background: #FFFFFF;
+border: 2px solid #878B92;
+
+
+/* E-Mail-Adresse eingeben */
+
+position: absolute;
+width: 219.76px;
+height: 33px;
+left: 1083.29px;
+top: 3916px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #878B92;
+
+
+
+/* Legen wir los */
+
+position: absolute;
+width: 165px;
+height: 38px;
+left: 1074px;
+top: 3827px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+line-height: 130%;
+/* identical to box height, or 38px */
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Allgemeines */
+
+position: absolute;
+width: 241.42px;
+height: 249px;
+left: 750px;
+top: 3827px;
+
+
+
+/* Kontakt Datenschutzerklärung Impressum Sitemap */
+
+position: absolute;
+width: 241.42px;
+height: 166px;
+left: 750px;
+top: 3910px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+text-decoration-line: underline;
+
+color: #F2F6EF;
+
+
+
+/* Allgemeines */
+
+position: absolute;
+width: 241.42px;
+height: 38px;
+left: 750px;
+top: 3827px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+line-height: 130%;
+/* identical to box height, or 38px */
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Beratung & Begleitung */
+
+position: absolute;
+width: 290.95px;
+height: 335px;
+left: 376px;
+top: 3827px;
+
+
+
+/* Überblick: Pakete & Preise Rundum-Sorglos-Paket E-Mobilität für Einsteiger Unternehmen & Kommunen */
+
+position: absolute;
+width: 290.95px;
+height: 252px;
+left: 376px;
+top: 3910px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+text-decoration-line: underline;
+
+color: #F2F6EF;
+
+
+
+/* Beratung & Begleitung */
+
+position: absolute;
+width: 290.95px;
+height: 73px;
+left: 376px;
+top: 3827px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+line-height: 130%;
+/* or 38px */
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* In Praxis erfahren */
+
+position: absolute;
+width: 241.42px;
+height: 249px;
+left: 52px;
+top: 3827px;
+
+
+
+/* Fahrzeugtests Blog “Neue Mobilität” Häufige Fragen Bewertungen */
+
+position: absolute;
+width: 241.42px;
+height: 166px;
+left: 52px;
+top: 3910px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+text-decoration-line: underline;
+
+color: #F2F6EF;
+
+
+
+/* Praxiserfahren */
+
+position: absolute;
+width: 241.42px;
+height: 38px;
+left: 52px;
+top: 3827px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+line-height: 130%;
+/* identical to box height, or 38px */
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Copyright © 2023 Berater Krenzer – Alle Rechte vorbehalten. */
+
+position: absolute;
+width: 488px;
+height: 26px;
+left: 863.46px;
+top: 4134px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* To-Top_blau */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 1290px;
+top: 3791px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 1290px;
+top: 3791px;
+
+background: #FFFFFF;
+box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Arrow 1 */
+
+position: absolute;
+width: 26.06px;
+height: 0px;
+left: 1318px;
+top: 3831px;
+
+border: 4px solid #83BD0F;
+transform: rotate(-90deg);
+
+
+/* 7 Lassen Sie uns beginnen */
+
+position: absolute;
+width: 1366px;
+height: 652px;
+left: 0px;
+top: 3115px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 652px;
+left: 0px;
+top: 3115px;
+
+background: #FFFFFF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 990px;
+height: 532.55px;
+left: 103px;
+top: 3175px;
+
+
+
+/* CTA Group */
+
+position: absolute;
+width: 988px;
+height: 296.55px;
+left: 105px;
+top: 3411px;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 232px;
+height: 295.73px;
+left: 105px;
+top: 3411.82px;
+
+
+
+/* DSC_2585 1 */
+
+position: absolute;
+width: 232px;
+height: 126.45px;
+left: 105px;
+top: 3411.82px;
+
+background: url(DSC_2585.jpg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 232px;
+height: 110px;
+left: 105px;
+top: 3538.55px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Welcher Mobilitätstyp sind Sie? Finden Sie es heraus. */
+
+position: absolute;
+width: 197px;
+height: 87px;
+left: 123px;
+top: 3550.55px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 105px;
+top: 3657.55px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 105px;
+top: 3657.55px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Test Mobilitätstyp */
+
+position: absolute;
+width: 171.26px;
+height: 30.87px;
+left: 135.4px;
+top: 3667.72px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 232px;
+height: 295.73px;
+left: 357px;
+top: 3411.55px;
+
+
+
+/* DSC_2585 1 */
+
+position: absolute;
+width: 232px;
+height: 126.45px;
+left: 357px;
+top: 3411.55px;
+
+background: url(DSC_2585.jpg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 232px;
+height: 110px;
+left: 357px;
+top: 3538.27px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Eine Auswahl aus Hunderten von mir getesteten Autos. */
+
+position: absolute;
+width: 197px;
+height: 87px;
+left: 375px;
+top: 3550.27px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 357px;
+top: 3657.27px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 357px;
+top: 3657.27px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Testberichte */
+
+position: absolute;
+width: 171.26px;
+height: 30.87px;
+left: 387.4px;
+top: 3667.45px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 232px;
+height: 295.73px;
+left: 609px;
+top: 3411.27px;
+
+
+
+/* DSC_2585 1 */
+
+position: absolute;
+width: 232px;
+height: 126.45px;
+left: 609px;
+top: 3411.27px;
+
+background: url(DSC_2585.jpg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 232px;
+height: 110px;
+left: 609px;
+top: 3538px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Mit meiner Beratung finden Sie das Auto, das zu Ihnen passt. */
+
+position: absolute;
+width: 197px;
+height: 87px;
+left: 627px;
+top: 3550px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 609px;
+top: 3657px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 609px;
+top: 3657px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Für Privatkunden */
+
+position: absolute;
+width: 171.26px;
+height: 30.87px;
+left: 639.4px;
+top: 3667.17px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 232px;
+height: 295.73px;
+left: 861px;
+top: 3411px;
+
+
+
+/* DSC_2585 1 */
+
+position: absolute;
+width: 232px;
+height: 126.45px;
+left: 861px;
+top: 3411px;
+
+background: url(DSC_2585.jpg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 232px;
+height: 110px;
+left: 861px;
+top: 3537.73px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Sie sind ein Unternehmen oder eine Kommune? */
+
+position: absolute;
+width: 197px;
+height: 87px;
+left: 879px;
+top: 3549.73px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 861px;
+top: 3656.73px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 232px;
+height: 50px;
+left: 861px;
+top: 3656.73px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Für Gewerbekunden */
+
+position: absolute;
+width: 192px;
+height: 31px;
+left: 880.4px;
+top: 3666.9px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Lassen Sie uns beginnen */
+
+position: absolute;
+width: 820px;
+height: 42px;
+left: 103px;
+top: 3175px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+color: #003077;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 988px;
+height: 104px;
+left: 105px;
+top: 3262px;
+
+
+
+/* Passen Sie mit Ihren Bedürfnissen und Ihrem Fahrprofil zur Elektromobilität? Oder ist zumindest vorerst noch eine andere Antriebsart für Sie besser geeignet? Ist Ihnen Sparsamkeit wichtiger - oder Agilität? */
+
+position: absolute;
+width: 484px;
+height: 104px;
+left: 105px;
+top: 3262px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Sind zumindest Teile Ihres Fuhrparks mit alternativen Antrieben wirtschaftlicher unterwegs? Und wie lassen sich verschiedene Verkehrsmittel am besten für Sie und Ihre Mitarbeiter kombinieren? */
+
+position: absolute;
+width: 484px;
+height: 104px;
+left: 609px;
+top: 3262px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* 6 Zitat */
+
+position: absolute;
+width: 1366px;
+height: 297px;
+left: 0px;
+top: 2818px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 297px;
+left: 0px;
+top: 2818px;
+
+background: #F2F6EF;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 1156px;
+height: 177px;
+left: 105px;
+top: 2878px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 904px;
+height: 177px;
+left: 357px;
+top: 2878px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* „Reichweite ist nicht alles, das Fahrzeug muss zum jeweiligen Fahrprofil passen.“ */
+
+position: absolute;
+width: 864px;
+height: 98px;
+left: 380px;
+top: 2897px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 41px;
+line-height: 130%;
+/* or 53px */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #000000;
+
+
+
+/* DSC_0733 1 */
+
+position: absolute;
+width: 232px;
+height: 177px;
+left: 105px;
+top: 2878px;
+
+background: url(DSC_0733);
+
+
+/* Daniel Krenzer, Mobilitätsexperte */
+
+position: absolute;
+width: 264px;
+height: 26px;
+left: 972px;
+top: 3009px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* 5 Das sagen meine Kunden */
+
+position: absolute;
+width: 1366px;
+height: 507px;
+left: 0px;
+top: 2311px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 507px;
+left: 0px;
+top: 2311px;
+
+background: #F2F6EF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1157px;
+height: 391.49px;
+left: 105px;
+top: 2371px;
+
+
+
+/* Das sagen meine Kunden über mich */
+
+position: absolute;
+width: 820px;
+height: 41.66px;
+left: 107px;
+top: 2371px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+color: #003077;
+
+
+
+/* Slider */
+
+position: absolute;
+width: 1157px;
+height: 306px;
+left: 105px;
+top: 2456.49px;
+
+background: #FFFFFF;
+
+
+/* Slide Arrows */
+
+position: absolute;
+width: 1128.29px;
+height: 42.59px;
+left: 116.98px;
+top: 2566.49px;
+
+
+
+/* Slider Right */
+
+position: absolute;
+width: 29.27px;
+height: 39.15px;
+left: 1245.27px;
+top: 2569.94px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Line 14 */
+
+position: absolute;
+width: 32.29px;
+height: 1.68px;
+left: 1245.27px;
+top: 2589.41px;
+
+border: 5px solid #83BD0F;
+transform: matrix(-0.8, -0.6, -0.61, 0.79, 0, 0);
+
+
+/* Line 15 */
+
+position: absolute;
+width: 35.4px;
+height: 0px;
+left: 1244.24px;
+top: 2587.75px;
+
+border: 5px solid #83BD0F;
+transform: matrix(-0.8, 0.6, -0.61, -0.79, 0, 0);
+
+
+/* Slider Left */
+
+position: absolute;
+width: 29.27px;
+height: 39.15px;
+left: 116.98px;
+top: 2566.49px;
+
+
+
+/* Line 14 */
+
+position: absolute;
+width: 32.29px;
+height: 1.68px;
+left: 116.98px;
+top: 2585.96px;
+
+border: 5px solid #83BD0F;
+transform: matrix(0.8, -0.6, 0.61, 0.79, 0, 0);
+
+
+/* Line 15 */
+
+position: absolute;
+width: 35.4px;
+height: 0px;
+left: 118px;
+top: 2584.3px;
+
+border: 5px solid #83BD0F;
+transform: matrix(0.8, 0.6, 0.61, -0.79, 0, 0);
+
+
+/* Group 2 */
+
+position: absolute;
+width: 988px;
+height: 174px;
+left: 189px;
+top: 2500.49px;
+
+
+
+/* Foto-Text-Box-1 */
+
+position: absolute;
+width: 316px;
+height: 174px;
+left: 189px;
+top: 2500.49px;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 255.88px;
+left: 168px;
+top: 2499.93px;
+
+background: #878B92;
+
+
+/* DSC_4201 1 */
+
+position: absolute;
+width: 147px;
+height: 174px;
+left: 189px;
+top: 2500.49px;
+
+background: url(DSC_4201);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 169px;
+height: 174px;
+left: 336px;
+top: 2500.49px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* “Dank der freundlichen Beratung bin ich stolzer E-Auto-Besitzer.” */
+
+position: absolute;
+width: 145px;
+height: 155px;
+left: 351px;
+top: 2511.49px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Foto-Text-Box-1 */
+
+position: absolute;
+width: 316px;
+height: 174px;
+left: 525px;
+top: 2500.49px;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 255.88px;
+left: 504px;
+top: 2499.93px;
+
+background: #878B92;
+
+
+/* DSC_4201 1 */
+
+position: absolute;
+width: 147px;
+height: 174px;
+left: 525px;
+top: 2500.49px;
+
+background: url(DSC_4201);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 170px;
+height: 174px;
+left: 671px;
+top: 2500.49px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* “Herr Krenzer ging sehr auf meine persönlichen Bedürfnisse ein, danke!” */
+
+position: absolute;
+width: 145px;
+height: 155px;
+left: 686px;
+top: 2511.49px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Foto-Text-Box-1 */
+
+position: absolute;
+width: 316px;
+height: 174px;
+left: 861px;
+top: 2500.49px;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 255.88px;
+left: 838px;
+top: 2499.93px;
+
+background: #878B92;
+
+
+/* DSC_4201 1 */
+
+position: absolute;
+width: 147px;
+height: 174px;
+left: 861px;
+top: 2500.49px;
+
+background: url(DSC_4201);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 169px;
+height: 174px;
+left: 1008px;
+top: 2500.49px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* “Unser Fuhrpark ist nun fit für die Zukunft, vielen Dank!” */
+
+position: absolute;
+width: 145px;
+height: 155px;
+left: 1023px;
+top: 2511.49px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 147px;
+height: 49.59px;
+left: 1030px;
+top: 2694.49px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 147px;
+height: 49.59px;
+left: 1030px;
+top: 2694.49px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Mehr */
+
+position: absolute;
+width: 48px;
+height: 30.75px;
+left: 1080px;
+top: 2704.41px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* 4 Mobilität auf einen Blick */
+
+position: absolute;
+width: 1366px;
+height: 641px;
+left: 0px;
+top: 1670px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 641px;
+left: 0px;
+top: 1670px;
+
+background: #F2F6EF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1195.51px;
+height: 520.44px;
+left: 84.73px;
+top: 1730.28px;
+
+
+
+/* CTA Group */
+
+position: absolute;
+width: 1022.95px;
+height: 251.18px;
+left: 171.52px;
+top: 1999.54px;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 326.52px;
+height: 251.18px;
+left: 171.52px;
+top: 1999.54px;
+
+
+
+/* DSC_2585 1 */
+
+position: absolute;
+width: 326.52px;
+height: 171.8px;
+left: 171.52px;
+top: 1999.54px;
+
+background: url(DSC_2585.jpg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 326.52px;
+height: 147.69px;
+left: 171.52px;
+top: 2103.03px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Was ist für den Einstieg besonders wissenswert? */
+
+position: absolute;
+width: 284.15px;
+height: 47.22px;
+left: 193.22px;
+top: 2108.05px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 284.15px;
+height: 50.24px;
+left: 193.22px;
+top: 2185.41px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 284.15px;
+height: 50.24px;
+left: 193.22px;
+top: 2185.41px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Häufige Fragen */
+
+position: absolute;
+width: 150.86px;
+height: 31.15px;
+left: 259.35px;
+top: 2195.46px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* identical to box height, or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 326.52px;
+height: 251.18px;
+left: 519.74px;
+top: 1999.54px;
+
+
+
+/* DSC_2585 1 */
+
+position: absolute;
+width: 326.52px;
+height: 171.8px;
+left: 519.74px;
+top: 1999.54px;
+
+background: url(DSC_2585.jpg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 326.52px;
+height: 147.69px;
+left: 519.74px;
+top: 2103.03px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Unsicher? Meine allgemeine Beratung hilft Ihnen weiter. */
+
+position: absolute;
+width: 284.15px;
+height: 47.22px;
+left: 541.44px;
+top: 2108.05px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 284.15px;
+height: 50.24px;
+left: 541.44px;
+top: 2185.41px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 284.15px;
+height: 50.24px;
+left: 541.44px;
+top: 2185.41px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Rundum-Beratung */
+
+position: absolute;
+width: 181.86px;
+height: 31.15px;
+left: 592.07px;
+top: 2195.46px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* identical to box height, or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* CTA */
+
+position: absolute;
+width: 326.52px;
+height: 251.18px;
+left: 867.96px;
+top: 1999.54px;
+
+
+
+/* DSC_2585 1 */
+
+position: absolute;
+width: 326.52px;
+height: 171.8px;
+left: 867.96px;
+top: 1999.54px;
+
+background: url(DSC_2585.jpg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 326.52px;
+height: 147.69px;
+left: 867.96px;
+top: 2103.03px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Informieren Sie sich in meinen Vorträgen. */
+
+position: absolute;
+width: 284.15px;
+height: 47.22px;
+left: 889.66px;
+top: 2108.05px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 122%;
+/* or 29px */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 284.15px;
+height: 50.24px;
+left: 889.66px;
+top: 2185.41px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 284.15px;
+height: 50.24px;
+left: 889.66px;
+top: 2185.41px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Vorträge & Webinare */
+
+position: absolute;
+width: 206.66px;
+height: 31.15px;
+left: 927.89px;
+top: 2195.46px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* identical to box height, or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 1195.51px;
+height: 136.64px;
+left: 84.73px;
+top: 1817.69px;
+
+
+
+/* Viele Fragen zur (Elektro-)Mobilität stehen im Raum, oft herrscht Verunsicherung. Wie geht das alles weiter? Reicht unser Strom? Wie komme ich in den Urlaub? Was ist die günstigste Lösung? Was die umweltfreundlichste? Ich gebe Antworten. */
+
+position: absolute;
+width: 413.31px;
+height: 136.64px;
+left: 84.73px;
+top: 1817.69px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Gerne stehe ich für Vorträge zur Verfügung, in denen ich den aktuellen Sachstand objektiv, unaufgeregt, aber kurzweilig aufbereite. Auch für Unternehmen und Kommunen finde ich die passenden Mobilitätslösungen. */
+
+position: absolute;
+width: 413.31px;
+height: 136.64px;
+left: 518.71px;
+top: 1817.69px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+width: 327.55px;
+height: 136.64px;
+left: 952.69px;
+top: 1817.69px;
+
+background: #878B92;
+
+
+/* Mobilität - ein schnelllebiges Themenfeld */
+
+position: absolute;
+width: 847.29px;
+height: 42.2px;
+left: 84.73px;
+top: 1730.28px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+
+color: #003077;
+
+
+
+/* 3 Praxiserfahren, integer und */
+
+position: absolute;
+width: 1366px;
+height: 471px;
+left: 0px;
+top: 1199px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 471px;
+left: 0px;
+top: 1199px;
+
+background: #F2F6EF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1072px;
+height: 348px;
+left: 105px;
+top: 1259px;
+
+
+
+/* Praxiserfahren, integer und im Thema Mobilität zuhause */
+
+position: absolute;
+width: 820px;
+height: 42px;
+left: 105px;
+top: 1259px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+color: #003077;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 988px;
+height: 261px;
+left: 189px;
+top: 1346px;
+
+
+
+/* Foto-Text-Box-1 */
+
+position: absolute;
+width: 316px;
+height: 259px;
+left: 189px;
+top: 1346px;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 258px;
+left: 189px;
+top: 1347px;
+
+background: #878B92;
+
+
+/* DSC_4201 1 */
+
+position: absolute;
+width: 316px;
+height: 258px;
+left: 189px;
+top: 1347px;
+
+background: url(DSC_4201);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 206px;
+height: 259px;
+left: 299px;
+top: 1346px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Hunderte verschiedene Fahrzeuge bin ich bereits selbst gefahren. */
+
+position: absolute;
+width: 172px;
+height: 156px;
+left: 315px;
+top: 1368px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 315px;
+top: 1537px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 315px;
+top: 1537px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Mehr */
+
+position: absolute;
+width: 102.33px;
+height: 32.98px;
+left: 349.84px;
+top: 1544.45px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Foto-Text-Box-1 */
+
+position: absolute;
+width: 316px;
+height: 259px;
+left: 525px;
+top: 1347px;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 258px;
+left: 525px;
+top: 1348px;
+
+background: #878B92;
+
+
+/* DSC_4201 1 */
+
+position: absolute;
+width: 316px;
+height: 258px;
+left: 525px;
+top: 1348px;
+
+background: url(DSC_4201);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 206px;
+height: 259px;
+left: 635px;
+top: 1347px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Meine Kunden schätzen meine Empathie und breit aufgestellte Expertise. */
+
+position: absolute;
+width: 172px;
+height: 156px;
+left: 651px;
+top: 1369px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 651px;
+top: 1538px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 651px;
+top: 1538px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Mehr */
+
+position: absolute;
+width: 102.33px;
+height: 32.98px;
+left: 685.84px;
+top: 1545.45px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Foto-Text-Box-1 */
+
+position: absolute;
+width: 316px;
+height: 259px;
+left: 861px;
+top: 1348px;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 258px;
+left: 861px;
+top: 1349px;
+
+background: #878B92;
+
+
+/* DSC_4201 1 */
+
+position: absolute;
+width: 316px;
+height: 258px;
+left: 861px;
+top: 1349px;
+
+background: url(DSC_4201);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 206px;
+height: 259px;
+left: 971px;
+top: 1348px;
+
+background: rgba(222, 227, 237, 0.75);
+
+
+/* Lieber auf Wasserstoff, E-Fuels oder ein Solarauto warten? Ein Überblick... */
+
+position: absolute;
+width: 172px;
+height: 156px;
+left: 987px;
+top: 1370px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 987px;
+top: 1539px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 172px;
+height: 50px;
+left: 987px;
+top: 1539px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Mehr */
+
+position: absolute;
+width: 102.33px;
+height: 32.98px;
+left: 1021.84px;
+top: 1546.45px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* 2 Mein Angebot an Sie */
+
+position: absolute;
+width: 1366px;
+height: 395px;
+left: 0px;
+top: 767px;
+
+
+
+/* Content-1 */
+
+position: absolute;
+width: 1366px;
+height: 395px;
+left: 0px;
+top: 767px;
+
+background: #F2F6EF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1157px;
+height: 312px;
+left: 105px;
+top: 812px;
+
+
+
+/* Mein Angebot an Sie */
+
+position: absolute;
+width: 820px;
+height: 42px;
+left: 105px;
+top: 812px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+color: #003077;
+
+
+
+/* Content Group */
+
+position: absolute;
+width: 1157px;
+height: 130px;
+left: 105px;
+top: 899px;
+
+
+
+/* Was sind Ihre Bedürfnisse in Sachen Mobilität, was Ihr Budget - und was die passende Lösung? Wie nutzen Sie Ihr Fahrzeug am effizientesten? Worauf sollten Sie als Neueinsteiger achten? Kommen multimodale Lösungen für Sie infrage? Wir finden es gemeinsam heraus. */
+
+position: absolute;
+width: 565px;
+height: 130px;
+left: 697px;
+top: 899px;
+
+font-family: 'Open Sans SemiCondensed';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Zahlen, Daten, Fakten */
+
+position: absolute;
+width: 568px;
+height: 130px;
+left: 105px;
+top: 899px;
+
+background: #878B92;
+
+
+/* Button Group */
+
+position: absolute;
+width: 988px;
+height: 50px;
+left: 189px;
+top: 1074px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 189px;
+top: 1074px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 189px;
+top: 1074px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Warum beraten lassen? */
+
+position: absolute;
+width: 225px;
+height: 31px;
+left: 235px;
+top: 1081.45px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 525px;
+top: 1074px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 525px;
+top: 1074px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Für Privatkunden */
+
+position: absolute;
+width: 165px;
+height: 31px;
+left: 601px;
+top: 1081px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 861px;
+top: 1074px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 316px;
+height: 50px;
+left: 861px;
+top: 1074px;
+
+background: #83BD0F;
+border-radius: 10px;
+
+
+/* Für Gewerbekunden */
+
+position: absolute;
+width: 192px;
+height: 31px;
+left: 923px;
+top: 1080.45px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+
+/* 1 Willkommen_ALT */
+
+position: absolute;
+visibility: hidden;
+width: 1324px;
+height: 343px;
+left: 21px;
+top: 424px;
+
+
+
+/* Variante Grün-2 */
+
+position: absolute;
+visibility: hidden;
+width: 1366px;
+height: 343px;
+left: 0px;
+top: 424px;
+
+background: #F2F6EF;
+
+
+/* Variante Grün-1 */
+
+position: absolute;
+visibility: hidden;
+width: 1366px;
+height: 343px;
+left: 0px;
+top: 424px;
+
+background: #DBE9BD;
+
+
+/* Variante Blau */
+
+position: absolute;
+width: 1324px;
+height: 343px;
+left: 21px;
+top: 424px;
+
+background: #DEE3ED;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 1227px;
+height: 253.74px;
+left: 105px;
+top: 469px;
+
+
+
+/* Bild1 2 */
+
+position: absolute;
+width: 234px;
+height: 252.74px;
+left: 1071px;
+top: 469px;
+
+background: url(Bild1);
+background-blend-mode: overlay;
+
+
+/* Bild1 3 */
+
+position: absolute;
+width: 234px;
+height: 252.74px;
+left: 1098px;
+top: 470px;
+
+background: url(Bild1);
+background-blend-mode: overlay;
+mix-blend-mode: soft-light;
+
+
+/* Bild1 1 */
+
+position: absolute;
+width: 234px;
+height: 252.74px;
+left: 1027px;
+top: 469px;
+
+background: url(Bild1);
+
+
+/* Welches Fahrzeug passt perfekt zu Ihnen? */
+
+position: absolute;
+width: 904px;
+height: 50.15px;
+left: 105px;
+top: 472.01px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 41px;
+line-height: 50px;
+/* or 122% */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #003077;
+
+
+
+/* Einleitung-Barlow */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 45px;
+
+position: absolute;
+width: 885px;
+height: 155px;
+left: 105px;
+top: 567.29px;
+
+
+
+/* Deutschland ist auf dem Weg zum Land der Elektromobilität. Passt ein E-Antrieb auch zu Ihnen? Und wenn ja: Soll es vollelektrisch oder hybrid vorangehen, mit oder ohne Stecker? Wir finden es heraus. */
+
+width: 420px;
+height: 155px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Meine Erfahrung mit den verschiedensten Antriebsarten, Herstellern und Modellen, umfangreiche Datenbanken sowie verschiedene von mir eingesetzte Profi-Tools helfen Ihnen bei der Entscheidung. */
+
+width: 420px;
+height: 155px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Einleitung-OpenSans */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+visibility: hidden;
+width: 870px;
+height: 156.46px;
+left: 105px;
+top: 563.41px;
+
+
+
+/* Deutschland ist auf dem Weg zum Land der Elektromobilität. Passt ein E-Antrieb auch zu Ihnen? Und wenn ja: Soll es vollelektrisch oder hybrid vorangehen, mit oder ohne Stecker? Oder ist ein Gas- oder Wasserstoffantrieb das Richtige für Sie? Dank meiner jahrelangen persönlichen */
+
+width: 420px;
+height: 156px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Erfahrung mit den verschiedensten Antriebsarten, Herstellern und Modellen sowie einer Datenbank mit fast 400 verschiedenen Fahrzeugen sowie verschiedenen Profi-Onlinetools finde ich im persönlichen Gespräch heraus, was das passende Fahrzeug für Sie ist. */
+
+width: 420px;
+height: 182px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Deutschland ist auf dem Weg zum Land der Elektromobilität. Passt ein E-Antrieb auch zu Ihnen? Und wenn ja: Soll es vollelektrisch oder hybrid vorangehen, mit oder ohne Stecker? Oder wäre ein Gas- oder Wasserstoffantrieb vielleicht das Richtige für Sie? Dank meiner jahrelangen persönlichen Erfahrung mit den verschiedensten Antriebsarten, Herstellern und Modellen sowie einer eigenen umfangreichen Datenbank mit fast 400 verschiedenen Fahrzeugen sowie verschiedenen Profi-Onlinetools finde ich im persönlichen Gespräch heraus, was das passende Fahrzeug für Sie ist. */
+
+position: absolute;
+visibility: hidden;
+width: 820px;
+height: 248.73px;
+left: 105px;
+top: 535.32px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* 1 Willkommen */
+
+position: absolute;
+width: 1366px;
+height: 249px;
+left: 0px;
+top: 424px;
+
+
+
+/* Variante Blau */
+
+position: absolute;
+width: 1366px;
+height: 249px;
+left: 0px;
+top: 424px;
+
+background: #DEE3ED;
+
+
+/* Intro */
+
+position: absolute;
+width: 885px;
+height: 155px;
+left: 105px;
+top: 469px;
+
+
+
+/* Einleitung-Barlow */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 45px;
+
+position: absolute;
+width: 885px;
+height: 155px;
+left: 105px;
+top: 469px;
+
+
+
+/* Deutschland ist auf dem Weg zum Land der Elektromobilität. Passt ein E-Antrieb auch zu Ihnen? Und wenn ja: Soll es vollelektrisch oder hybrid vorangehen, mit oder ohne Stecker? Wir finden es heraus. */
+
+width: 420px;
+height: 155px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Meine Erfahrung mit den verschiedensten Antriebsarten, Herstellern und Modellen, umfangreiche Datenbanken sowie verschiedene von mir eingesetzte Profi-Tools helfen Ihnen bei der Entscheidung. */
+
+width: 420px;
+height: 155px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Einleitung-OpenSans */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+visibility: hidden;
+width: 870px;
+height: 156.46px;
+left: 105px;
+top: 563.41px;
+
+
+
+/* Deutschland ist auf dem Weg zum Land der Elektromobilität. Passt ein E-Antrieb auch zu Ihnen? Und wenn ja: Soll es vollelektrisch oder hybrid vorangehen, mit oder ohne Stecker? Oder ist ein Gas- oder Wasserstoffantrieb das Richtige für Sie? Dank meiner jahrelangen persönlichen */
+
+width: 420px;
+height: 156px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Erfahrung mit den verschiedensten Antriebsarten, Herstellern und Modellen sowie einer Datenbank mit fast 400 verschiedenen Fahrzeugen sowie verschiedenen Profi-Onlinetools finde ich im persönlichen Gespräch heraus, was das passende Fahrzeug für Sie ist. */
+
+width: 420px;
+height: 182px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 130%;
+/* or 26px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Key Visual */
+
+position: absolute;
+width: 1366px;
+height: 344px;
+left: 0px;
+top: 80px;
+
+
+
+/* Key Visual_ALT */
+
+position: absolute;
+visibility: hidden;
+width: 1366px;
+height: 389px;
+left: 0px;
+top: 94px;
+
+background: url(AdobeStock_179709876 - Kopie.jpg);
+
+
+/* Key Visual */
+
+position: absolute;
+width: 1366px;
+height: 329px;
+left: 0px;
+top: 95px;
+
+background: url(AdobeStock_179709876 - Kopie.jpg);
+
+
+/* Bild1 4 */
+
+position: absolute;
+width: 318px;
+height: 344px;
+left: 1027px;
+top: 80px;
+
+background: url(Bild1);
+
+
+/* Störer */
+
+position: absolute;
+width: 399px;
+height: 221px;
+left: 106px;
+top: 141px;
+
+opacity: 0.8;
+
+
+/* Störer */
+
+position: absolute;
+width: 399px;
+height: 221px;
+left: 106px;
+top: 141px;
+
+background: rgba(184, 197, 224, 0.5);
+border-radius: 3px;
+
+
+/* Bereit für Ihre persönliche Verkehrswende? */
+
+position: absolute;
+visibility: hidden;
+width: 343px;
+height: 150px;
+left: 134px;
+top: 176px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 41px;
+line-height: 50px;
+/* or 122% */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Welches Fahrzeug passt perfekt zu Ihnen? */
+
+position: absolute;
+width: 343px;
+height: 150px;
+left: 134px;
+top: 176px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 41px;
+line-height: 50px;
+/* or 122% */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #FFFFFF;
+
+
+
+/* Störer_ALT */
+
+position: absolute;
+visibility: hidden;
+width: 316px;
+height: 292px;
+left: 105px;
+top: 142px;
+
+opacity: 0.8;
+
+
+/* Störer */
+
+position: absolute;
+width: 316px;
+height: 292px;
+left: 105px;
+top: 142px;
+
+background: rgba(184, 197, 224, 0.5);
+
+
+/* Bereit für Ihre persönliche Verkehrs-wende? */
+
+position: absolute;
+width: 251px;
+height: 237px;
+left: 137px;
+top: 169px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 41px;
+line-height: 50px;
+/* or 122% */
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+font-variant: small-caps;
+
+color: #F2F6EF;
+
+
+
+/* Trennlinien */
+
+position: absolute;
+visibility: hidden;
+width: 1344px;
+height: 1958px;
+left: 21px;
+top: 1235px;
+
+
+
+/* Linie Stecker 6-7 */
+
+position: absolute;
+width: 1342px;
+height: 42px;
+left: 21px;
+top: 3151px;
+
+
+
+/* Stecker */
+
+position: absolute;
+width: 38px;
+height: 42px;
+left: 1325px;
+top: 3151px;
+
+background: url(Seite 29.png);
+
+
+/* Line 11 */
+
+position: absolute;
+width: 1310px;
+height: 0px;
+left: 21px;
+top: 3175px;
+
+border: 3px solid #83BD0F;
+
+
+/* Linie Stecker 5-6 */
+
+position: absolute;
+width: 1342px;
+height: 42px;
+left: 21px;
+top: 2854px;
+
+
+
+/* Stecker */
+
+position: absolute;
+width: 38px;
+height: 42px;
+left: 1325px;
+top: 2854px;
+
+background: url(Seite 29.png);
+
+
+/* Line 11 */
+
+position: absolute;
+width: 1310px;
+height: 0px;
+left: 21px;
+top: 2878px;
+
+border: 3px solid #83BD0F;
+
+
+/* Linie Stecker 4-5 */
+
+position: absolute;
+width: 1344px;
+height: 42px;
+left: 21px;
+top: 2347px;
+
+
+
+/* Stecker */
+
+position: absolute;
+width: 38px;
+height: 42px;
+left: 1327px;
+top: 2347px;
+
+background: url(Seite 29.png);
+
+
+/* Line 11 */
+
+position: absolute;
+width: 1310px;
+height: 0px;
+left: 21px;
+top: 2371px;
+
+border: 3px solid #83BD0F;
+
+
+/* Linie Stecker 3-4 */
+
+position: absolute;
+width: 1342px;
+height: 42px;
+left: 21px;
+top: 1706px;
+
+
+
+/* Stecker */
+
+position: absolute;
+width: 38px;
+height: 42px;
+left: 1325px;
+top: 1706px;
+
+background: url(Seite 29.png);
+
+
+/* Line 11 */
+
+position: absolute;
+width: 1310px;
+height: 0px;
+left: 21px;
+top: 1730px;
+
+border: 3px solid #83BD0F;
+
+
+/* Linie Stecker 2-3 */
+
+position: absolute;
+width: 1342px;
+height: 42px;
+left: 21px;
+top: 1235px;
+
+
+
+/* Stecker */
+
+position: absolute;
+width: 38px;
+height: 42px;
+left: 1325px;
+top: 1235px;
+
+background: url(Seite 29.png);
+
+
+/* Line 11 */
+
+position: absolute;
+width: 1310px;
+height: 0px;
+left: 21px;
+top: 1259px;
+
+border: 3px solid #83BD0F;
+
+
+/* Line 13 */
+
+position: absolute;
+visibility: hidden;
+width: 1324px;
+height: 0px;
+left: 21px;
+top: 1244px;
+
+border: 3px solid #83BD0F;
+
+
+/* Header */
+
+position: absolute;
+visibility: hidden;
+width: 1366px;
+height: 95px;
+left: 0px;
+top: 0px;
+overflow-y: scroll;
+
+
+
+/* Sticky Header */
+
+position: absolute;
+width: 1366px;
+height: 95px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 5px 9px rgba(0, 0, 0, 0.25);
+border-radius: 2px;
+
+
+/* Header */
+
+position: absolute;
+width: 1366px;
+height: 95px;
+left: 0px;
+top: 0px;
+overflow-y: scroll;
+
+
+
+/* Header-Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Sekundär-1 */
+background: #F2F6EF;
+mix-blend-mode: normal;
+
+
+/* Hauptnavigation */
+
+position: absolute;
+left: 30.89%;
+right: 3.37%;
+top: 52.63%;
+bottom: 16.84%;
+
+
+
+/* Über uns */
+
+position: absolute;
+left: 53.44%;
+right: 40.56%;
+top: 52.63%;
+bottom: 16.84%;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00183B;
+
+
+
+/* Kleiderspende registrieren */
+
+position: absolute;
+left: 30.89%;
+right: 51.24%;
+top: 52.63%;
+bottom: 16.84%;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00183B;
+
+
+
+/* Mithelfen */
+
+position: absolute;
+left: 90.41%;
+right: 3.37%;
+top: 52.63%;
+bottom: 16.84%;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00183B;
+
+
+
+/* Unsere Bereiche */
+
+position: absolute;
+left: 73.21%;
+right: 15.67%;
+top: 52.63%;
+bottom: 16.84%;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00183B;
+
+
+
+/* News */
+
+position: absolute;
+left: 64.49%;
+right: 31.84%;
+top: 52.63%;
+bottom: 16.84%;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00183B;
+
+
+
+/* Line 1 */
+
+position: absolute;
+left: 86.9%;
+right: 10.98%;
+top: 52.63%;
+bottom: 47.37%;
+
+border: 1px solid #00183B;
+transform: rotate(90deg);
+
+
+/* Line 2 */
+
+position: absolute;
+left: 70.79%;
+right: 27.09%;
+top: 52.63%;
+bottom: 47.37%;
+
+border: 1px solid #00183B;
+transform: rotate(90deg);
+
+
+/* Line 4 */
+
+position: absolute;
+left: 51.02%;
+right: 46.85%;
+top: 52.63%;
+bottom: 47.37%;
+
+border: 1px solid #00183B;
+transform: rotate(90deg);
+
+
+/* Line 3 */
+
+position: absolute;
+left: 61.71%;
+right: 36.16%;
+top: 52.63%;
+bottom: 47.37%;
+
+border: 1px solid #00183B;
+transform: rotate(90deg);
+
+
+/* Metanavigation */
+
+position: absolute;
+left: 81.11%;
+right: 2.12%;
+top: 7.37%;
+bottom: 73.68%;
+
+
+
+/* Newsletter */
+
+position: absolute;
+left: 87.92%;
+right: 7.54%;
+top: 7.37%;
+bottom: 73.68%;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #878B92;
+
+
+
+/* Impressum */
+
+position: absolute;
+left: 81.11%;
+right: 14.2%;
+top: 7.37%;
+bottom: 73.68%;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #878B92;
+
+
+
+/* Kontakt */
+
+position: absolute;
+left: 94.58%;
+right: 2.12%;
+top: 7.37%;
+bottom: 73.68%;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #878B92;
+
+
+
+/* Line 8 */
+
+position: absolute;
+left: 93.48%;
+right: 5.49%;
+top: 9.47%;
+bottom: 90.53%;
+
+border: 0.5px solid #878B92;
+transform: rotate(90deg);
+
+
+/* Line 9 */
+
+position: absolute;
+left: 86.9%;
+right: 12.08%;
+top: 9.47%;
+bottom: 90.53%;
+
+border: 0.5px solid #878B92;
+transform: rotate(90deg);
+
+
+/* Group 5 */
+
+position: absolute;
+visibility: hidden;
+width: 39px;
+height: 23px;
+left: 271px;
+top: 33px;
+
+
+
+/* Menü */
+
+position: absolute;
+width: 39px;
+height: 23px;
+left: 271px;
+top: 33px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 19px;
+line-height: 23px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Icon Burger */
+
+position: absolute;
+visibility: hidden;
+width: 50px;
+height: 36px;
+left: 323px;
+top: 33px;
+
+
+
+/* Line 16 */
+
+position: absolute;
+width: 50px;
+height: 0px;
+left: 323px;
+top: 33px;
+
+border: 7px solid #83BD0F;
+
+
+/* Line 17 */
+
+position: absolute;
+width: 50px;
+height: 0px;
+left: 323px;
+top: 51px;
+
+border: 7px solid #83BD0F;
+
+
+/* Line 18 */
+
+position: absolute;
+width: 50px;
+height: 0px;
+left: 323px;
+top: 69px;
+
+border: 7px solid #83BD0F;
+
+
+/* NEU */
+
+position: absolute;
+width: 20px;
+height: 14px;
+left: 412px;
+top: 36px;
+
+font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #83BD0F;
+
+
+
+/* IPWA01-01_Logo 2 */
+
+position: absolute;
+width: 142px;
+height: 90px;
+left: 0px;
+top: 5px;
+
+background: url(IPWA01-01_Logo.png);
