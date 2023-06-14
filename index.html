@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hanau Für Alle e.V. | Willkommen!</title>
     <meta lang="de" charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css"/>
+    <link rel="icon" href="media/IPWA01-01_Logo-favicon.png" type="image/x-icon">
+    <title>Hanau Für Alle e.V. | Willkommen!</title>
   </head>
+
   <body>
     <!--HEADER MIT MENÜLEISTE-->
-    <div class="container">
-      <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-        <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-          <img id="logo" src="media/IPWA01-01_Logo.png"><use xlink:href="index.html"></use></svg>
-          <!--<span class="fs-4">Hanau Für Alle</span>-->
-        </a>
-  
-        <ul class="nav nav-pills">
-         <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Start</a></li>
-         <li class="nav-item"><a href="spendenregistrierung.html" class="nav-link">Spende weltweit</a></li>    
-          <li class="nav-item"><a href="ueberuns.html" class="nav-link">Über uns</a></li>
-          <li class="nav-item"><a href="news.html" class="nav-link">News</a></li>
-          <li class="nav-item"><a href="bereiche.html" class="nav-link">Unsere Bereiche</a></li>
-          <li class="nav-item"><a href="unterstuetzen.html" class="nav-link">Unterstützen</a></li>
+    <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+      <a class="navbar-brand" href="#"><img id="logo" src="media/IPWA01-01_Logo-2.png" alt="Vereinslogo"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"><a class="nav-link" href="#">Start</a></li>
+          <li class="nav-item"><a class="nav-link" href="spendenregistrierung.html">Spende weltweit</a></li>
+          <li class="nav-item"><a class="nav-link" href="ueberuns.html">Über uns</a></li>
+          <li class="nav-item"><a class="nav-link" href="news.html">News</a></li>
+          <li class="nav-item"><a class="nav-link" href="bereiche.html">Unsere Bereiche</a></li>
+          <li class="nav-item"><a class="nav-link" href="unterstuetzen.html">Unterstützen</a></li>
         </ul>
-      </header>
-    </div>
+      </div>
+    </nav>
 
 <div id="content">
    <!--KEY-VISUAL-->
-   <div id="keyvisual">
-    <img id="keyvisual-img" src="media/grosse-gruppe-von-menschen-die-feiern.jpg" alt="Hanauer:innen in großer Runde">
-    <!--Textbox "Willkommen"-->
-    <p>Herzlich willkommen bei Hanau für Alle!</p>
+   <div id="keyvisual" class="jumbotron jumbotron-fluid" style="background:url(media/grosse-gruppe-von-menschen-die-feiern.jpg) no-repeat; background-size: cover;">
+    <div style="background-color: #dee3edd5;color:darkblue;" class="my-5 text-center">
+      <h1 class="display-3">Herzlich willkommen bei Hanau für Alle!</h1>
+    </div>
    </div>
    
    <!--1-WILLKOMMEN-->
@@ -40,95 +42,158 @@
     <p>HU Für Alle e.V. ist ein Verein, der sich in Hanau vor Ort, aber auch weltweit dafür stark macht, dass alle Menschen selbstbestimmt und würdig am gesellschaftlichen Leben teilhaben können. Mit vielfältigen Angeboten und Tätigkeiten in den Bereichen Wohnen, Arbeiten, Begegnung und Alltag wollen wir dazu beitragen, die Lebensqualität der Hanauer:innen und Menschen weltweit zu verbessern.</p>
    </div>
 
+
    <!--2-Kleiderspendenregistrierung-->
    <div id="main">
     <section>
       <h1>Jetzt neu: Schicke Deine Kleider in eine neue Heimat Deiner Wahl</h1>
-      <div><p><a href="spendenregistrierung.html">Link zu Formular zur Registrierung der Kleiderspenden</a></p>
+      <div class="form-box"><p><a href="spendenregistrierung.html">Link zu Formular zur Registrierung der Kleiderspenden</a></p>
     </div> 
     </section>
+<!--Bootstrap <hr> tag    <hr class="p-1 border border-1 bg-primary rounded-pill"/>-->
+
+    <hr/>
 
    <!--3-Verein und Philosphie-->
    <section>
     <h1>Unser Verein und unsere Philosphie</h1>
     <div>
     <img src="" alt="270+ Mitglieder, 5 soziale Bereiche, 4500+ Kleidungsstücke in die Welt gespendet, 50+ Kooperationen in Hanau">
-    <p>Seit 2020 setzen wir uns mit vereinten Kräften dafür ein, hilfebedürf-tigen und benachteiligten Menschen in Hanau zu ermöglichen, selbstbestimmt und in Würde am gesellschaftlichen Leben teilzuhaben. Mit Ausbruch des Ukraine-Krieges haben wir unser Hilfsangebot auf Krisengebiete dieser Welt ausgeweitet  - und das mit Erfolg!</p>
+    <p>Seit 2020 setzen wir uns mit vereinten Kräften dafür ein, hilfebedürftigen und benachteiligten Menschen in Hanau zu ermöglichen, selbstbestimmt und in Würde am gesellschaftlichen Leben teilzuhaben. Mit Ausbruch des Ukraine-Krieges haben wir unser Hilfsangebot auf Krisengebiete dieser Welt ausgeweitet  - und das mit Erfolg!</p>
     <button class="btn btn-primary btn-hu"><a href="ueberuns.html">Erfahre mehr über uns</a></button>
     <button class="btn btn-primary btn-hu"><a href="unterstuetzen.html" >Werde Teil unseres Vereins</a></button>
   </div> 
    </section>
 
+   <hr/>
 
-   <!--4-Neues aus dem Verein-->
-  <section>
-    <h1>Neues aus unserem Verein</h1>
-    <div>
-      <!--drei Blöcke-->
-    </div>
-  </section> 
+    <!--4-Neues aus dem Verein-->
+    <section>
+      <h1>Neues aus unserem Verein</h1>
+      <div class="bd-example">
+        <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="media/IPWA01-01_Logo.png" class="d-block w-100" alt="...">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Rekordknacker</h5>
+                <p>Der Verein auf dem Bürgerfest Hanau - Rekord ein zweites Mal geknackt!</p>
+                <a href="news.html" class="btn btn-primary btn-hu">Mehr erfahren</a>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="media/IPWA01-01_Logo.png" class="d-block w-100" alt="...">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Kleiderspenden weltweit</h5>
+                <p>Seit Mai online: Registriere Deine Kleiderspende und entscheide, wo sie hilft.</p>
+                <a href="news.html" class="btn btn-primary btn-hu">Mehr erfahren</a>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="media/IPWA01-01_Logo.png" class="d-block w-100" alt="...">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Hanauer Liebling</h5>
+                <p>Blick in die Werkstatt: Warum unser Radservice so beliebt ist und was bald kommt.</p>
+                <a href="news.html" class="btn btn-primary btn-hu">Mehr erfahren</a>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </section>
 
+    <hr/>
 
   <!--5-Aktivitäten und Bereiche-->
  <section>
   <h1>Unsere Aktivitäten und Bereiche</h1>
-  <div>
-  <div class="card" style="width: 18rem;">
+  <div class="row">
+  <div class="col col-lg-3 col-md-4 col-sm-6">
+  <div class="card border-0">
     <img src="media/IPWA01-01_Logo.png" class="card-img-top" alt="...">
     <div class="card-body">
-      <p class="card-text">Wir schicken Kleidung dorthin, wo sie gebraucht wird.</p>
+      <p class="card-text text-center">Wir schicken Kleidung dorthin, wo sie gebraucht wird.</p>
       <a href="#" class="btn btn-primary btn-hu">Kleiderspenden</a>
     </div>
   </div>
-  <div class="card" style="width: 18rem;">
+  </div>
+  <div class="col col-lg-3 col-md-4 col-sm-6">
+  <div class="card border-0">
     <img src="media/IPWA01-01_Logo.png" class="card-img-top" alt="...">
     <div class="card-body">
-      <p class="card-text">Wir begrünen Hanau und helfen damit Umwelt und Mensch.</p>
-      <a href="#" class="btn btn-primary buttonHu">Urban Gardening</a>
+      <p class="card-text  text-center">Wir begrünen Hanau und helfen damit Umwelt und Mensch.</p>
+      <a href="#" class="btn btn-primary btn-hu">Urban Gardening</a>
     </div>
   </div>
-  <div class="card" style="width: 18rem;">
+</div>
+<div class="col col-lg-3 col-md-4 col-sm-6">
+  <div class="card border-0">
     <img src="media/IPWA01-01_Logo.png" class="card-img-top" alt="...">
     <div class="card-body">
-      <p class="card-text">Jung und alt unter einem Dach - Wir machen es möglich.</p>
-      <a href="#" class="btn btn-primary buttonHu">Generationenhaus</a>
-    </div>
-  </div>
-  <div class="card" style="width: 18rem;">
-    <img src="media/IPWA01-01_Logo.png" class="card-img-top" alt="...">
-    <div class="card-body">
-      <p class="card-text">Fahrrad kaputt? Wir helfen gerne, schnell und kompetent.</p>
-      <a href="#" class="btn btn-primary buttonHu">Fahrradservice</a>
+      <p class="card-text text-center">Jung und alt unter einem Dach - Wir machen es möglich.</p>
+      <a href="#" class="btn btn-primary btn-hu">Generationenhaus</a>
     </div>
   </div>
   </div>
+  <div class="col col-lg-3 col-md-4 col-sm-6">
+  <div class="card border-0">
+    <img src="media/IPWA01-01_Logo.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <p class="card-text text-center">Fahrrad kaputt? Wir helfen gerne, schnell und kompetent.</p>
+      <a href="#" class="btn btn-primary btn-hu">Fahrradservice</a>
+    </div>
+  </div>
+  </div>
+</div></div>
 </section>
+
+<hr/>
 
   <!--6-Mithelfen-->
   <section>
     <h1>Wie Du mithelfen kannst - ob Mitglied oder Nichtmitglied!</h1>
     <div>
       <p>Unser Ziel ist groß - wir können also jede Unterstützung gebrauchen. Egal ob Du mit Deiner Kleiderspende dazu beiträgst, mit Deinem grünen Daumen beim Urban Gardening, mit Deiner Zeit beim Aufbau und Betrieb eines Mehrgenerationenhauses oder beim Schrauben in der Fahrradworkshop - Deine Hilfe ist für uns wertvoll. Und wenn Dir unsere Arbeit gefällt, dann werde doch einfach Mitglied und profitiere von Rabatten und Gutscheinen in Hanau!</p>
-      <div class="card" style="width: 18rem;">
+      <div class="row">
+      <div class="col col-lg-4 col-6">
+      <div class="card border-0">
         <img src="media/IPWA01-01_Logo.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <p class="card-text">Verschicke Kleidung ins Krisengebiet Deiner Wahl.</p>
-          <a href="#" class="btn btn-primary buttonHu">Kleidung weltweit spenden</a>
+          <p class="card-text text-center">Verschicke Kleidung ins Krisengebiet Deiner Wahl.</p>
+          <a href="#" class="btn btn-primary btn-hu">Kleidung weltweit spenden</a>
         </div>
       </div>
-      <div class="card" style="width: 18rem;">
+      </div>
+      <div class="col col-lg-4 col-6">
+        <div class="card border-0">
         <img src="media/IPWA01-01_Logo.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <p class="card-text">Packe vor Ort in und um Hanau mit an.</p>
-          <a href="#" class="btn btn-primary buttonHu">In Hanau helfen</a>
+          <p class="card-text text-center">Packe vor Ort in und um Hanau mit an.</p>
+          <a href="#" class="btn btn-primary btn-hu">In Hanau helfen</a>
         </div>
       </div>
-      <div class="card" style="width: 18rem;">
+      </div>
+      <div class="col col-lg-4 col-6">
+        <div class="card border-0">
         <img src="media/IPWA01-01_Logo.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <p class="card-text">Als Mitglied hilfst Du finanziell und, wenn möglich, aktiv.</p>
-          <a href="#" class="btn btn-primary buttonHu">Werde Mitglied</a>
+          <p class="card-text text-center">Als Mitglied hilfst Du finanziell und, wenn möglich, aktiv.</p>
+          <a href="#" class="btn btn-primary btn-hu">Werde Mitglied</a>
         </div>
+      </div>
       </div>
     </div>
   </section>
@@ -141,5 +206,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
   </body>
 </html>

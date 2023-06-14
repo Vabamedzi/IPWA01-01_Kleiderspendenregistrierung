@@ -57,55 +57,6 @@ header, footer, nav {
    padding: 0;
    border:none;
 }
-/*
-#header {
-   position: absolute;
-   left: 10px;
-   top: 10px;
-   right: 10px;
-   height: 100px;
-
-}
-
-#content {
-   position: absolute;
-   left: 210px;
-   right: 10px;
-   top: 110px;
-   bottom: 30px;
-}*/
-
-/*#nav ul {
-   margin: 30px 0 0 0;
-   padding: 0;
-}
-
-#nav li {
-   list-style-type: none;
-   margin: 0;
-   border-bottom: 1px solid #30804B;
-   background-color: #AF824E;
-}
-
-#nav li ul {
-   margin: 0;
-}
-
-#nav .ausgewaehlt {
-   background-color: salmon;
-}
-
-#nav a, #nav a:visited, #nav a:hover, #hav a:focus {
-   display: block;
-   height: 2em;
-   text-decoration: none;
-   color: black;
-   text-align: right;
-   font-size: 1.6em;
-   padding: 2px 10px 0 0;
-   font-variant: small-caps;
-   font-weight: bold;
-}*/
 
 .btn-hu {
    background-color: #83BD0F;
@@ -120,6 +71,11 @@ header, footer, nav {
 body {
    background-color: #F2F6EF;
    margin: 0 2% 0 2%;
+   max-width: 1320px;
+}
+
+li.nav-item {
+   vertical-align: middle;
 }
 
 .nav-link {
@@ -131,19 +87,13 @@ body {
    color: #83BD0F;
 }
 
-.nav-pills {
-   background-color: none;
-}
-
-li .active {
-   background-color: none;
+.nav-active {
    font-weight: bold;
-   text-decoration:underline;
+   color: #83BD0F;
+   border-bottom: 1px solid #83BD0F;
 }
 
-.nav-pills .nav-link.active {
-   background-color: none;
-}
+
 .container {
    background-color: #F2F6EF;
 }
@@ -165,24 +115,75 @@ button a, a.btn-hu {
    padding: 6px;
 }
 
-/*body {
-   padding: 0;
-   margin: 0;
-   background: #f9f9f9;
+ .navbar-light .navbar-nav .nav-link {
+   color: #003077;
  }
- /*-- Navigationsleiste --
- .nav-link {
-   margin-right: 1em !important;
- }
- .nav-link:hover,
- .navbar-brand:hover {
-   color: white;
-   text-decoration: underline;
- }
- .navbar-collapse {
-   justify-content: flex-end;
- }*/
 
- #keyvisual-img {
-   width: 100%;
+.navbar-light .navbar-nav .nav-link.active {
+   font-weight: bold;
+   color:#83BD0F;
  }
+
+ .navbar-light .navbar-nav .navlink:hover {
+   color:#83BD0F;
+ }
+
+ @media screen and (min-width: 576px) {
+   #welcome p {
+   column-count: 2;
+   column-gap: 5%;
+   column-fill: balance-all;
+ }
+}
+
+#welcome {
+   background-color:#FFFFFF;
+   box-shadow: 0 4px 3px -2px #878b9255;
+   padding: 30px 40px;
+}
+
+h1.display-3 {
+   font-variant-caps: small-caps;
+}
+
+.form-box {
+   background-color:#003077;
+}
+
+.form-box p a {
+   color: #FFFFFF;
+   padding: 20px;
+}
+
+.form-box p {
+   padding: 20px;
+}
+
+hr {
+   border-color:#83BD0F !important;
+   border: solid 1px;
+   border-radius: 4px;
+   margin: 0px;
+}
+
+section {
+   padding: 30px 40px;
+   /*BORDER nur für Arbeitszwecke
+   border: solid 1px black;*/
+}
+
+section:nth-of-type(2n) {
+   background-color:#FFFFFF;
+}
+
+div.carousel-caption {
+   background-color: rgba(128, 128, 128, 0.379);
+}
+
+#logo {
+   max-height: 50px;
+}
+
+.jumbotron {
+   margin-bottom: 0;
+}
