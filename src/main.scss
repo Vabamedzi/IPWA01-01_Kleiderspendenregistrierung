@@ -1,0 +1,234 @@
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+// VA: Eigene Werte
+$primary: #83BD0F; // Primär-Grün
+$secondary: #003077; // Primär-Blau
+$light: #F2F6EF; // Sekundär Grün Extra-Blass
+$dark: #00183B; // Sekundär-Blau Dunkel
+$info: #DBE9BD; // Sekundär-Grün Blass
+$success: #B7DE7D; // Tertiär-Grün Mittel
+$warning: #B8C5E0; // Tertiär-Blau Mittel
+$danger: #DEE3ED; // Tertiär-Blau Blass
+
+$font-family-sans-serif: "Barlow Semi-Condensed", Roboto, Arial, sans-serif;
+
+$bs-btn-color: #FFFFFF;
+$btn-color: #FFFFFF;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
+
+// Then add additional custom code here
+
+/* Lokale Fonts */
+@font-face {
+   font-family: 'Barlow Semi-Condensed';
+   font-display: swap;
+   /* font-weight: ??;*/
+   src: local('BarlowSemiCondensed-Regular'), local('BarlowSemiCondensed-Regular'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Regular.woff2') format('woff2'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Regular.ttf') format('tff');
+}
+
+@font-face {
+   font-family: 'Barlow Semi-Condensed Light';
+   font-display: swap;
+   src: local('BarlowSemiCondensed-Light'), local('BarlowSemiCondensed-Light'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Light.woff2') format('woff2'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Light.ttf') format('tff');
+}
+
+@font-face {
+   font-family: 'Barlow Semi-Condensed Medium';
+   font-display: swap;
+   src: local('BarlowSemiCondensed-Medium'), local('BarlowSemiCondensed-Medium'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Medium.woff2') format('woff2'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Medium.ttf') format('tff');
+}
+
+@font-face {
+   font-family: 'Barlow Semi-Condensed SemiBold';
+   font-display: swap;
+   src: local('BarlowSemiCondensed-SemiBold'), local('BarlowSemiCondensed-SemiBold'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.woff2') format('woff2'),
+   url('fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.ttf') format('tff')
+}
+
+@font-face {
+   font-family: 'OpenSans Semi-Condensed Light';
+   font-display: swap;
+   src: local('OpenSans SemiCondensed-Light'), local('OpenSans SemiCondensed-Light'),
+   url('fonts/Open_Sans/static/OpenSans_SemiCondensed/OpenSans_SemiCondensed-Light.woff2') format('woff2'),
+   url('fonts/Open_Sans/static/OpenSans_SemiCondensed/OpenSans_SemiCondensed-Light.ttf') format('tff')
+}
+
+html {
+   background-color: $info;
+}
+
+body {
+   background-color: $light;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 1320px;
+}
+
+nav {
+   background-color: black;
+   box-shadow: 0 4px 3px -2px #878b9255;
+}
+
+#logo {
+   max-height: 3em;
+   width: auto;
+}
+
+.nav-link {
+   color: $secondary;
+   font-family: $font-family-sans-serif;
+}
+
+.nav-link:hover {
+   color: $primary;
+}
+
+.jumbotron {
+   margin-bottom: 0;
+   border: 1px solid rgba(0, 0, 0, 0);
+}
+
+h1 {
+   color: #003077;
+}
+
+h1.display-3 {
+   font-variant-caps: small-caps;
+}
+
+p {
+   font-family: 'OpenSans Semi-Condensed Light', Arial, Helvetica, sans-serif;
+}
+
+@media screen and (min-width: 576px) {
+   #welcome p {
+   column-count: 2;
+   column-gap: 5%;
+   column-fill: balance-all;
+ }
+}
+
+#welcome {
+   background-color:#FFFFFF;
+   box-shadow: 0 4px 3px -2px #878b9255;
+   padding: 30px 40px;
+}
+
+section {
+   padding: 30px 40px;
+}
+
+/* Ggf. weglassen? */
+section:nth-of-type(2n) {
+   background-color:#FFFFFF;
+}
+
+button a {
+   color: #FFFFFF;
+   font-family: 'Barlow Semi-Condensed Medium';
+   text-decoration: none;
+   padding: 6px;
+}
+
+.form-box {
+   background-color:#003077;
+}
+
+.form-box p {
+   padding: 20px;
+}
+
+.form-box p a {
+   color: #FFFFFF;
+}
+
+hr {
+   border-color: $primary !important;
+   border: solid 1px;
+   border-radius: 4px;
+   margin: 0px;
+}
+
+div.carousel-caption {
+   background-color: rgba(128, 128, 128, 0.379);
+}
+
+#footer {
+   padding: 30px 40px 0 40px;
+   position: relative;
+}
+
+#footer div h5 {
+   color: #FFFFFF;
+   font-variant-caps: small-caps;
+   padding: 0 0 5px 0;
+}
+
+#footer div ul {
+   list-style-type: none;
+   padding-left: 0;
+}
+
+.footerLink, .socialMedia {
+   font-family: 'OpenSans Semi-Condensed Light';
+   color: $light;
+}
+
+.footerLink:hover, .socialMedia:hover {
+   color: $primary;
+}
+
+#actionContainer > * {
+   padding: 0 !important;
+}
+
+#newsletterEmail, input.btn {
+   margin: 5px 0 5px 0;
+}
+
+#newsletterEmail {
+   font-size: 0.75em;
+}
+
+#toTop {
+   position: absolute;
+   bottom: 350px;
+   right: 15px;
+   border: 2px solid $primary;
+   background-color: white;
+   padding: 5px;
+   z-index: 100;
+   cursor: pointer;
+   border-radius: 25%;
+   font-weight: bold;
+   box-shadow: 0 4px 3px -2px #878b9255;
+}
+
+@media screen and (min-width: 768px) {
+   #toTop {
+      bottom: 200px;
+   }
+}
+
+#toTop:hover {
+   background-color: $primary;
+   color:#FFFFFF;
+}
+
+#disclaimer {
+   color: $light;
+   text-align: right;
+   font-size: 0.75em;
+   padding: 20px 0 0 0;
+}
