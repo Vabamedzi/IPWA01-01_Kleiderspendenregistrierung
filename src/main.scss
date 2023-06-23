@@ -17,6 +17,9 @@ $font-family-sans-serif: "Barlow Semi-Condensed", Roboto, Arial, sans-serif;
 $bs-btn-color: #FFFFFF;
 $btn-color: #FFFFFF;
 
+$carousel-control-color: #FFFFFF;
+$carousel-control-opacity: 1;
+
 @import "../node_modules/bootstrap/scss/bootstrap";
 @import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
 
@@ -107,6 +110,12 @@ h1.display-3 {
    font-variant-caps: small-caps;
 }
 
+#uebersicht {
+   --bs-aspect-ratio: 35.8%;
+   margin-bottom: 10px;
+   max-width: auto;
+}
+
 p {
    font-family: 'OpenSans Semi-Condensed Light', Arial, Helvetica, sans-serif;
 }
@@ -129,7 +138,6 @@ section {
    padding: 30px 40px;
 }
 
-/* Ggf. weglassen? */
 section:nth-of-type(2n) {
    background-color:#FFFFFF;
 }
@@ -160,8 +168,33 @@ hr {
    margin: 0px;
 }
 
-div.carousel-caption {
-   background-color: rgba(128, 128, 128, 0.379);
+.card {
+   margin: 5px 0 10px 0;
+}
+
+.newsItem {
+   background-color: $secondary;
+   color:#F2F6EF;
+}
+
+.newsItem h3 {
+   margin: 30px 50px 30px 20px;
+}
+
+.newsItem p {
+   margin: 30px 50px 70px 20px;
+}
+
+.carousel-control-prev-icon {
+   position: absolute;
+   bottom: 20px;
+   left: 20px;
+}
+
+.carousel-control-next-icon {
+   position: absolute;
+   bottom: 20px;
+   right: 20px;
 }
 
 #footer {
