@@ -261,7 +261,7 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  font-size: 1rem;
+  font-size: 0.75rem;
 }
 
 p {
@@ -2932,7 +2932,7 @@ textarea.form-control-lg {
   --bs-btn-font-size: 1rem;
   --bs-btn-font-weight: 400;
   --bs-btn-line-height: 1.5;
-  --bs-btn-color: #FFFFFF;
+  --bs-btn-color: #FFF;
   --bs-btn-bg: transparent;
   --bs-btn-border-width: var(--bs-border-width);
   --bs-btn-border-color: transparent;
@@ -6065,7 +6065,7 @@ textarea.form-control-lg {
   justify-content: center;
   width: 15%;
   padding: 0;
-  color: #FFFFFF;
+  color: #FFF;
   text-align: center;
   background: none;
   border: 0;
@@ -6081,7 +6081,7 @@ textarea.form-control-lg {
 .carousel-control-prev:hover, .carousel-control-prev:focus,
 .carousel-control-next:hover,
 .carousel-control-next:focus {
-  color: #FFFFFF;
+  color: #FFF;
   text-decoration: none;
   outline: 0;
   opacity: 0.9;
@@ -6114,11 +6114,11 @@ textarea.form-control-lg {
   } ]
 } */
 .carousel-control-prev-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23FFFFFF'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23FFF'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
 }
 
 .carousel-control-next-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23FFFFFF'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23FFF'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
 }
 
 .carousel-indicators {
@@ -8382,7 +8382,7 @@ textarea.form-control-lg {
 }
 
 .fs-6 {
-  font-size: 1rem !important;
+  font-size: 0.75rem !important;
 }
 
 .fst-italic {
@@ -12033,7 +12033,6 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-/* Lokale Fonts */
 @font-face {
   font-family: "Barlow Semi-Condensed";
   font-display: swap;
@@ -12041,19 +12040,9 @@ textarea.form-control-lg {
   src: local("BarlowSemiCondensed-Regular"), local("BarlowSemiCondensed-Regular"), url("fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Regular.woff2") format("woff2"), url("fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Regular.ttf") format("tff");
 }
 @font-face {
-  font-family: "Barlow Semi-Condensed Light";
-  font-display: swap;
-  src: local("BarlowSemiCondensed-Light"), local("BarlowSemiCondensed-Light"), url("fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Light.woff2") format("woff2"), url("fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Light.ttf") format("tff");
-}
-@font-face {
   font-family: "Barlow Semi-Condensed Medium";
   font-display: swap;
   src: local("BarlowSemiCondensed-Medium"), local("BarlowSemiCondensed-Medium"), url("fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Medium.woff2") format("woff2"), url("fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Medium.ttf") format("tff");
-}
-@font-face {
-  font-family: "Barlow Semi-Condensed SemiBold";
-  font-display: swap;
-  src: local("BarlowSemiCondensed-SemiBold"), local("BarlowSemiCondensed-SemiBold"), url("fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.woff2") format("woff2"), url("fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.ttf") format("tff");
 }
 @font-face {
   font-family: "OpenSans Semi-Condensed Light";
@@ -12061,38 +12050,40 @@ textarea.form-control-lg {
   src: local("OpenSans SemiCondensed-Light"), local("OpenSans SemiCondensed-Light"), url("fonts/Open_Sans/static/OpenSans_SemiCondensed/OpenSans_SemiCondensed-Light.woff2") format("woff2"), url("fonts/Open_Sans/static/OpenSans_SemiCondensed/OpenSans_SemiCondensed-Light.ttf") format("tff");
 }
 html {
-  background-color: #DBE9BD;
+  font-size: 1rem;
 }
 
 body {
-  background-color: #F2F6EF;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 1320px;
 }
 
 nav {
-  background-color: black;
-  box-shadow: 0 4px 3px -2px rgba(135, 139, 146, 0.3333333333);
+  box-shadow: 0 0.25rem 0.25rem -0.125rem rgba(135, 139, 146, 0.3333333333);
 }
 
 #logo {
-  max-height: 3em;
+  max-height: 3rem;
   width: auto;
 }
 
 .nav-link {
   color: #003077;
   font-family: "Barlow Semi-Condensed", Roboto, Arial, sans-serif;
+  font-size: 1.25rem;
 }
 
 .nav-link:hover {
   color: #83BD0F;
 }
 
+#navbarSupportedContent ul li {
+  padding: 0 1rem 0 0;
+}
+
 .jumbotron {
-  margin-bottom: 0;
   border: 1px solid rgba(0, 0, 0, 0);
+  background: url(media/HU_Keyvisual.jpg) no-repeat;
+  background-size: cover;
 }
 
 h1, .h1 {
@@ -12101,12 +12092,6 @@ h1, .h1 {
 
 h1.display-3, .display-3.h1 {
   font-variant-caps: small-caps;
-}
-
-#uebersicht {
-  --bs-aspect-ratio: 35.8%;
-  margin-bottom: 10px;
-  max-width: auto;
 }
 
 p {
@@ -12124,83 +12109,83 @@ p {
   }
 }
 #welcome {
-  background-color: #FFFFFF;
-  box-shadow: 0 4px 3px -2px rgba(135, 139, 146, 0.3333333333);
-  padding: 30px 40px;
+  box-shadow: 0 0.25rem 0.25rem -0.125rem rgba(135, 139, 146, 0.3333333333);
+  padding: 2rem 2.5rem;
 }
 
 section {
-  padding: 30px 40px;
+  padding: 2rem 2.5rem;
 }
 
 section:nth-of-type(2n) {
-  background-color: #FFFFFF;
+  background-color: #fff;
 }
 
 button a {
-  color: #FFFFFF;
+  color: #fff;
   font-family: "Barlow Semi-Condensed Medium";
   text-decoration: none;
-  padding: 6px;
-}
-
-.form-box {
-  background-color: #003077;
-}
-
-.form-box p {
-  padding: 20px;
-}
-
-.form-box p a {
-  color: #FFFFFF;
+  padding: 0.4rem;
 }
 
 hr {
   border-color: #83BD0F !important;
   border: solid 1px;
-  border-radius: 4px;
-  margin: 0px;
+  border-radius: 0.25rem;
+  margin: 0;
+}
+
+.form-box p {
+  padding: 1.25rem;
+}
+
+.form-box p a {
+  color: #fff;
+}
+
+#uebersicht {
+  --bs-aspect-ratio: 35.8%;
+  margin-bottom: 0.6rem;
 }
 
 .card {
-  margin: 5px 0 10px 0;
+  margin: 0.25rem 0 0.6rem 0;
 }
 
-.newsItem {
+.news-item {
   background-color: #003077;
   color: #F2F6EF;
 }
 
-.newsItem h3, .newsItem .h3 {
-  margin: 30px 50px 30px 20px;
+.news-item h3, .news-item .h3 {
+  margin: 2rem 3rem 2rem 1.25rem;
 }
 
-.newsItem p {
-  margin: 30px 50px 70px 20px;
+.news-item p {
+  margin: 2rem 3rem 4rem 1.25rem;
 }
 
 .carousel-control-prev-icon {
   position: absolute;
-  bottom: 20px;
-  left: 20px;
+  bottom: 1.25rem;
+  left: 1.25rem;
 }
 
 .carousel-control-next-icon {
   position: absolute;
-  bottom: 20px;
-  right: 20px;
+  bottom: 1.25rem;
+  right: 1.25rem;
 }
 
 #footer {
-  padding: 30px 40px 0 40px;
   position: relative;
+  padding: 2rem 2.5rem 0 2.5rem;
 }
 
 #footer div h5, #footer div .h5 {
-  color: #FFFFFF;
+  color: #fff;
   font-variant-caps: small-caps;
-  padding: 0 0 5px 0;
+  padding-bottom: 0.25rem;
 }
 
 #footer div ul {
@@ -12208,34 +12193,26 @@ hr {
   padding-left: 0;
 }
 
-.footerLink, .socialMedia {
+.footer-link, .socialMedia {
   font-family: "OpenSans Semi-Condensed Light";
   color: #F2F6EF;
 }
 
-.footerLink:hover, .socialMedia:hover {
+.footer-link:hover, .socialMedia:hover {
   color: #83BD0F;
 }
 
-#actionContainer > * {
+#action-container > * {
   padding: 0 !important;
 }
 
-#newsletterEmail, input.btn {
-  margin: 5px 0 5px 0;
-}
-
-#newsletterEmail {
-  font-size: 0.75em;
-}
-
-#toTop {
+#to-top {
   position: absolute;
-  bottom: 350px;
-  right: 15px;
+  bottom: 22.5rem;
+  right: 1rem;
   border: 2px solid #83BD0F;
-  background-color: white;
-  padding: 5px;
+  background-color: #fff;
+  padding: 0.25rem;
   z-index: 100;
   cursor: pointer;
   border-radius: 25%;
@@ -12244,18 +12221,11 @@ hr {
 }
 
 @media screen and (min-width: 768px) {
-  #toTop {
-    bottom: 200px;
+  #to-top {
+    bottom: 13.5rem;
   }
 }
-#toTop:hover {
+#to-top:hover {
   background-color: #83BD0F;
-  color: #FFFFFF;
-}
-
-#disclaimer {
-  color: #F2F6EF;
-  text-align: right;
-  font-size: 0.75em;
-  padding: 20px 0 0 0;
+  color: #fff;
 }
