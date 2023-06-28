@@ -12080,6 +12080,12 @@ nav {
   padding: 0 1rem 0 0;
 }
 
+.active a {
+  color: #83BD0F;
+  text-decoration: underline;
+  text-underline-offset: 0.5rem;
+}
+
 .jumbotron {
   border: 1px solid rgba(0, 0, 0, 0);
   background: url(media/HU_Keyvisual.jpg) no-repeat;
@@ -12099,7 +12105,7 @@ p {
 }
 
 @media screen and (min-width: 576px) {
-  #welcome p {
+  #welcome p, #vereinsgeschichte, #mitgliedschaft {
     -moz-column-count: 2;
          column-count: 2;
     -moz-column-gap: 5%;
@@ -12150,6 +12156,15 @@ hr {
 
 .card {
   margin: 0.25rem 0 0.6rem 0;
+}
+
+p.card-text span {
+  font-weight: bold;
+}
+
+.card-title {
+  margin-bottom: 1rem;
+  color: #83BD0F;
 }
 
 .news-item {
