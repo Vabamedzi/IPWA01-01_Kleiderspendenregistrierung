@@ -119,9 +119,14 @@ p {
  }
 }
 
-#welcome {
+#welcome, #in-arbeit {
    box-shadow: 0 0.25rem 0.25rem -0.125rem #878b9255;
    padding: 2rem 2.5rem;
+}
+
+#in-arbeit-h5 {
+   color: $primary;
+   font-weight: bold;
 }
 
 section {
